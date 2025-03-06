@@ -1,6 +1,7 @@
 .env
 .idea
 .venv
+test.*
 arangodb
 experiment
 template
