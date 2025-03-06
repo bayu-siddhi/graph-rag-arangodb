@@ -1,0 +1,500 @@
+[
+    {
+        "from_type": "Article",
+        "from": 200705038601000,
+        "to_type": "Article",
+        "to": 200705011601000
+    },
+    {
+        "from_type": "Article",
+        "from": 201005016600300,
+        "to_type": "Article",
+        "to": 200705026600300
+    },
+    {
+        "from_type": "Article",
+        "from": 201005016600400,
+        "to_type": "Article",
+        "to": 200705026600400
+    },
+    {
+        "from_type": "Article",
+        "from": 201005016601300,
+        "to_type": "Article",
+        "to": 200705026601300
+    },
+    {
+        "from_type": "Article",
+        "from": 201005029600100,
+        "to_type": "Article",
+        "to": 200705026600100
+    },
+    {
+        "from_type": "Article",
+        "from": 201005029600900,
+        "to_type": "Article",
+        "to": 200705026600900
+    },
+    {
+        "from_type": "Article",
+        "from": 201005029601200,
+        "to_type": "Article",
+        "to": 200705026601200
+    },
+    {
+        "from_type": "Article",
+        "from": 201005029601700,
+        "to_type": "Article",
+        "to": 200705026601700
+    },
+    {
+        "from_type": "Article",
+        "from": 201105024600700,
+        "to_type": "Article",
+        "to": 200705026600700
+    },
+    {
+        "from_type": "Article",
+        "from": 201105024601100,
+        "to_type": "Article",
+        "to": 200705026601100
+    },
+    {
+        "from_type": "Article",
+        "from": 201105024601200,
+        "to_type": "Article",
+        "to": 201005029601200
+    },
+    {
+        "from_type": "Article",
+        "from": 201105024601200,
+        "to_type": "Article",
+        "to": 200705026601200
+    },
+    {
+        "from_type": "Article",
+        "from": 201105024601300,
+        "to_type": "Article",
+        "to": 201005016601300
+    },
+    {
+        "from_type": "Article",
+        "from": 201105024601300,
+        "to_type": "Article",
+        "to": 200705026601300
+    },
+    {
+        "from_type": "Article",
+        "from": 201405038600400,
+        "to_type": "Article",
+        "to": 201005001600400
+    },
+    {
+        "from_type": "Article",
+        "from": 201405038600500,
+        "to_type": "Article",
+        "to": 201005001600500
+    },
+    {
+        "from_type": "Article",
+        "from": 201405038606700,
+        "to_type": "Article",
+        "to": 201005001606700
+    },
+    {
+        "from_type": "Article",
+        "from": 201405038606800,
+        "to_type": "Article",
+        "to": 201005001606800
+    },
+    {
+        "from_type": "Article",
+        "from": 201405038607000,
+        "to_type": "Article",
+        "to": 201005001607000
+    },
+    {
+        "from_type": "Article",
+        "from": 201405038607400,
+        "to_type": "Article",
+        "to": 201005001607400
+    },
+    {
+        "from_type": "Article",
+        "from": 201505007600501,
+        "to_type": "Article",
+        "to": 201405038600501
+    },
+    {
+        "from_type": "Article",
+        "from": 201505007606700,
+        "to_type": "Article",
+        "to": 201405038606700
+    },
+    {
+        "from_type": "Article",
+        "from": 201505007606700,
+        "to_type": "Article",
+        "to": 201005001606700
+    },
+    {
+        "from_type": "Article",
+        "from": 201505007606800,
+        "to_type": "Article",
+        "to": 201405038606800
+    },
+    {
+        "from_type": "Article",
+        "from": 201505007606800,
+        "to_type": "Article",
+        "to": 201005001606800
+    },
+    {
+        "from_type": "Article",
+        "from": 201505007606900,
+        "to_type": "Article",
+        "to": 201005001606900
+    },
+    {
+        "from_type": "Article",
+        "from": 201505007607000,
+        "to_type": "Article",
+        "to": 201405038607000
+    },
+    {
+        "from_type": "Article",
+        "from": 201505007607000,
+        "to_type": "Article",
+        "to": 201005001607000
+    },
+    {
+        "from_type": "Article",
+        "from": 201505007607300,
+        "to_type": "Article",
+        "to": 201005001607300
+    },
+    {
+        "from_type": "Article",
+        "from": 201505007608100,
+        "to_type": "Article",
+        "to": 201005001608100
+    },
+    {
+        "from_type": "Article",
+        "from": 201705005600100,
+        "to_type": "Article",
+        "to": 201005029600100
+    },
+    {
+        "from_type": "Article",
+        "from": 201705005600100,
+        "to_type": "Article",
+        "to": 200705026600100
+    },
+    {
+        "from_type": "Article",
+        "from": 201705005601200,
+        "to_type": "Article",
+        "to": 201105024601200
+    },
+    {
+        "from_type": "Article",
+        "from": 201705005601200,
+        "to_type": "Article",
+        "to": 201005029601200
+    },
+    {
+        "from_type": "Article",
+        "from": 201705005601200,
+        "to_type": "Article",
+        "to": 200705026601200
+    },
+    {
+        "from_type": "Article",
+        "from": 201705005601700,
+        "to_type": "Article",
+        "to": 201005029601700
+    },
+    {
+        "from_type": "Article",
+        "from": 201705005601700,
+        "to_type": "Article",
+        "to": 200705026601700
+    },
+    {
+        "from_type": "Article",
+        "from": 202005002606100,
+        "to_type": "Article",
+        "to": 201905013606100
+    },
+    {
+        "from_type": "Article",
+        "from": 202105001600100,
+        "to_type": "Article",
+        "to": 201905013600100
+    },
+    {
+        "from_type": "Article",
+        "from": 202105001600300,
+        "to_type": "Article",
+        "to": 201905013600300
+    },
+    {
+        "from_type": "Article",
+        "from": 202105001600600,
+        "to_type": "Article",
+        "to": 201905013600600
+    },
+    {
+        "from_type": "Article",
+        "from": 202105001600700,
+        "to_type": "Article",
+        "to": 201905013600700
+    },
+    {
+        "from_type": "Article",
+        "from": 202105001600800,
+        "to_type": "Article",
+        "to": 201905013600800
+    },
+    {
+        "from_type": "Article",
+        "from": 202105001600900,
+        "to_type": "Article",
+        "to": 201905013600900
+    },
+    {
+        "from_type": "Article",
+        "from": 202105001601900,
+        "to_type": "Article",
+        "to": 201905013601900
+    },
+    {
+        "from_type": "Article",
+        "from": 202105001602400,
+        "to_type": "Article",
+        "to": 201905013602400
+    },
+    {
+        "from_type": "Article",
+        "from": 202105001602600,
+        "to_type": "Article",
+        "to": 201905013602600
+    },
+    {
+        "from_type": "Article",
+        "from": 202105001602700,
+        "to_type": "Article",
+        "to": 201905013602700
+    },
+    {
+        "from_type": "Article",
+        "from": 202105001602800,
+        "to_type": "Article",
+        "to": 201905013602800
+    },
+    {
+        "from_type": "Article",
+        "from": 202105001603000,
+        "to_type": "Article",
+        "to": 201905013603000
+    },
+    {
+        "from_type": "Article",
+        "from": 202105001603400,
+        "to_type": "Article",
+        "to": 201905013603400
+    },
+    {
+        "from_type": "Article",
+        "from": 202105001603500,
+        "to_type": "Article",
+        "to": 201905013603500
+    },
+    {
+        "from_type": "Article",
+        "from": 202105001603600,
+        "to_type": "Article",
+        "to": 201905013603600
+    },
+    {
+        "from_type": "Article",
+        "from": 202105001603700,
+        "to_type": "Article",
+        "to": 201905013603700
+    },
+    {
+        "from_type": "Article",
+        "from": 202105001604600,
+        "to_type": "Article",
+        "to": 201905013604600
+    },
+    {
+        "from_type": "Article",
+        "from": 202105001605200,
+        "to_type": "Article",
+        "to": 201905013605200
+    },
+    {
+        "from_type": "Article",
+        "from": 202105001605300,
+        "to_type": "Article",
+        "to": 201905013605300
+    },
+    {
+        "from_type": "Article",
+        "from": 202105001605700,
+        "to_type": "Article",
+        "to": 201905013605700
+    },
+    {
+        "from_type": "Article",
+        "from": 202105010604700,
+        "to_type": "Article",
+        "to": 202005005604700
+    },
+    {
+        "from_type": "Article",
+        "from": 202105011606300,
+        "to_type": "Article",
+        "to": 202105006606300
+    },
+    {
+        "from_type": "Article",
+        "from": 202105011609000,
+        "to_type": "Article",
+        "to": 202105006609000
+    },
+    {
+        "from_type": "Article",
+        "from": 202105014605800,
+        "to_type": "Article",
+        "to": 201905013605800
+    },
+    {
+        "from_type": "Article",
+        "from": 201601019600100,
+        "to_type": "Article",
+        "to": 200801011600100
+    },
+    {
+        "from_type": "Article",
+        "from": 201601019602600,
+        "to_type": "Article",
+        "to": 200801011602600
+    },
+    {
+        "from_type": "Article",
+        "from": 201601019603100,
+        "to_type": "Article",
+        "to": 200801011603100
+    },
+    {
+        "from_type": "Article",
+        "from": 201601019604000,
+        "to_type": "Article",
+        "to": 200801011604000
+    },
+    {
+        "from_type": "Article",
+        "from": 201601019604300,
+        "to_type": "Article",
+        "to": 200801011604300
+    },
+    {
+        "from_type": "Article",
+        "from": 201601019604500,
+        "to_type": "Article",
+        "to": 200801011604500
+    },
+    {
+        "from_type": "Article",
+        "from": 202401001600500,
+        "to_type": "Article",
+        "to": 200801011600500
+    },
+    {
+        "from_type": "Article",
+        "from": 202401001601300,
+        "to_type": "Article",
+        "to": 200801011601300
+    },
+    {
+        "from_type": "Article",
+        "from": 202401001601700,
+        "to_type": "Article",
+        "to": 200801011601700
+    },
+    {
+        "from_type": "Article",
+        "from": 202401001602700,
+        "to_type": "Article",
+        "to": 200801011602700
+    },
+    {
+        "from_type": "Article",
+        "from": 202401001602800,
+        "to_type": "Article",
+        "to": 200801011602800
+    },
+    {
+        "from_type": "Article",
+        "from": 202401001602900,
+        "to_type": "Article",
+        "to": 200801011602900
+    },
+    {
+        "from_type": "Article",
+        "from": 202401001603600,
+        "to_type": "Article",
+        "to": 200801011603600
+    },
+    {
+        "from_type": "Article",
+        "from": 202401001604000,
+        "to_type": "Article",
+        "to": 201601019604000
+    },
+    {
+        "from_type": "Article",
+        "from": 202401001604000,
+        "to_type": "Article",
+        "to": 200801011604000
+    },
+    {
+        "from_type": "Article",
+        "from": 202401001604300,
+        "to_type": "Article",
+        "to": 201601019604300
+    },
+    {
+        "from_type": "Article",
+        "from": 202401001604300,
+        "to_type": "Article",
+        "to": 200801011604300
+    },
+    {
+        "from_type": "Article",
+        "from": 202401001604500,
+        "to_type": "Article",
+        "to": 201601019604500
+    },
+    {
+        "from_type": "Article",
+        "from": 202401001604500,
+        "to_type": "Article",
+        "to": 200801011604500
+    },
+    {
+        "from_type": "Article",
+        "from": 202401001604501,
+        "to_type": "Article",
+        "to": 201601019604501
+    },
+    {
+        "from_type": "Article",
+        "from": 202401001604502,
+        "to_type": "Article",
+        "to": 201601019604502
+    }
+]

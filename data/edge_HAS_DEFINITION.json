@@ -1,0 +1,5744 @@
+[
+    {
+        "from_type": "Regulation",
+        "from": 200705011100000,
+        "to_type": "Definition",
+        "to": 200705011400100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200705011100000,
+        "to_type": "Definition",
+        "to": 200705011400200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200705011100000,
+        "to_type": "Definition",
+        "to": 200705011400300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200705011100000,
+        "to_type": "Definition",
+        "to": 200705011400400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200705011100000,
+        "to_type": "Definition",
+        "to": 200705011400500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200705011100000,
+        "to_type": "Definition",
+        "to": 200705011400600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200705011100000,
+        "to_type": "Definition",
+        "to": 200705011400700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200705011100000,
+        "to_type": "Definition",
+        "to": 200705011400800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200705011100000,
+        "to_type": "Definition",
+        "to": 200705011400900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200705011100000,
+        "to_type": "Definition",
+        "to": 200705011401000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200705011100000,
+        "to_type": "Definition",
+        "to": 200705011401100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200705011100000,
+        "to_type": "Definition",
+        "to": 200705011401200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200705011100000,
+        "to_type": "Definition",
+        "to": 200705011401300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200705011100000,
+        "to_type": "Definition",
+        "to": 200705011401400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200705011100000,
+        "to_type": "Definition",
+        "to": 200705011401500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200705011100000,
+        "to_type": "Definition",
+        "to": 200705011401600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200705011100000,
+        "to_type": "Definition",
+        "to": 200705011401700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200705011100000,
+        "to_type": "Definition",
+        "to": 200705011401800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200705026100000,
+        "to_type": "Definition",
+        "to": 200705026400100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200705026100000,
+        "to_type": "Definition",
+        "to": 200705026400200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200705026100000,
+        "to_type": "Definition",
+        "to": 200705026400300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200705026100000,
+        "to_type": "Definition",
+        "to": 200705026400400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200705026100000,
+        "to_type": "Definition",
+        "to": 200705026400500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200705026100000,
+        "to_type": "Definition",
+        "to": 200705026400600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200705026100000,
+        "to_type": "Definition",
+        "to": 200705026400700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200705026100000,
+        "to_type": "Definition",
+        "to": 200705026400800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200705026100000,
+        "to_type": "Definition",
+        "to": 200705026400900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200705026100000,
+        "to_type": "Definition",
+        "to": 200705026401000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200705026100000,
+        "to_type": "Definition",
+        "to": 200705026401100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200705026100000,
+        "to_type": "Definition",
+        "to": 200705026401200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200705026100000,
+        "to_type": "Definition",
+        "to": 200705026401300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200905041100000,
+        "to_type": "Definition",
+        "to": 200905041400100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200905041100000,
+        "to_type": "Definition",
+        "to": 200905041400200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200905041100000,
+        "to_type": "Definition",
+        "to": 200905041400300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200905041100000,
+        "to_type": "Definition",
+        "to": 200905041400400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200905041100000,
+        "to_type": "Definition",
+        "to": 200905041400500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200905041100000,
+        "to_type": "Definition",
+        "to": 200905041400600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200905041100000,
+        "to_type": "Definition",
+        "to": 200905041400700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200905041100000,
+        "to_type": "Definition",
+        "to": 200905041400800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200905041100000,
+        "to_type": "Definition",
+        "to": 200905041400900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200905041100000,
+        "to_type": "Definition",
+        "to": 200905041401000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200905041100000,
+        "to_type": "Definition",
+        "to": 200905041401100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200905041100000,
+        "to_type": "Definition",
+        "to": 200905041401200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200905041100000,
+        "to_type": "Definition",
+        "to": 200905041401300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200905041100000,
+        "to_type": "Definition",
+        "to": 200905041401400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200905042100000,
+        "to_type": "Definition",
+        "to": 200905042400100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200905042100000,
+        "to_type": "Definition",
+        "to": 200905042400200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200905042100000,
+        "to_type": "Definition",
+        "to": 200905042400300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200905042100000,
+        "to_type": "Definition",
+        "to": 200905042400400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200905042100000,
+        "to_type": "Definition",
+        "to": 200905042400500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200905042100000,
+        "to_type": "Definition",
+        "to": 200905042400600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200905042100000,
+        "to_type": "Definition",
+        "to": 200905042400700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200905042100000,
+        "to_type": "Definition",
+        "to": 200905042400800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200905042100000,
+        "to_type": "Definition",
+        "to": 200905042400900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200905042100000,
+        "to_type": "Definition",
+        "to": 200905042401000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200905042100000,
+        "to_type": "Definition",
+        "to": 200905042401100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201005001100000,
+        "to_type": "Definition",
+        "to": 201005001400100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201005001100000,
+        "to_type": "Definition",
+        "to": 201005001400200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201005001100000,
+        "to_type": "Definition",
+        "to": 201005001400300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201005001100000,
+        "to_type": "Definition",
+        "to": 201005001400400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201005001100000,
+        "to_type": "Definition",
+        "to": 201005001400500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201005001100000,
+        "to_type": "Definition",
+        "to": 201005001400600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201005001100000,
+        "to_type": "Definition",
+        "to": 201005001400700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201005001100000,
+        "to_type": "Definition",
+        "to": 201005001400800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201005001100000,
+        "to_type": "Definition",
+        "to": 201005001400900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201005001100000,
+        "to_type": "Definition",
+        "to": 201005001401000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201005001100000,
+        "to_type": "Definition",
+        "to": 201005001401100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201005001100000,
+        "to_type": "Definition",
+        "to": 201005001401200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201005001100000,
+        "to_type": "Definition",
+        "to": 201005001401300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201005001100000,
+        "to_type": "Definition",
+        "to": 201005001401400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201005001100000,
+        "to_type": "Definition",
+        "to": 201005001401500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201005001100000,
+        "to_type": "Definition",
+        "to": 201005001401600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201005001100000,
+        "to_type": "Definition",
+        "to": 201005001401700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201005001100000,
+        "to_type": "Definition",
+        "to": 201005001401800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201005001100000,
+        "to_type": "Definition",
+        "to": 201005001401900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201005001100000,
+        "to_type": "Definition",
+        "to": 201005001402000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201005001100000,
+        "to_type": "Definition",
+        "to": 201005001402100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201005001100000,
+        "to_type": "Definition",
+        "to": 201005001402200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201005001100000,
+        "to_type": "Definition",
+        "to": 201005001402300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201005001100000,
+        "to_type": "Definition",
+        "to": 201005001402400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201005029100000,
+        "to_type": "Definition",
+        "to": 201005029400100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201005029100000,
+        "to_type": "Definition",
+        "to": 201005029400200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201005029100000,
+        "to_type": "Definition",
+        "to": 201005029400300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201005029100000,
+        "to_type": "Definition",
+        "to": 201005029400400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201005029100000,
+        "to_type": "Definition",
+        "to": 201005029400500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201005029100000,
+        "to_type": "Definition",
+        "to": 201005029400600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201005029100000,
+        "to_type": "Definition",
+        "to": 201005029400700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201005029100000,
+        "to_type": "Definition",
+        "to": 201005029400800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201005029100000,
+        "to_type": "Definition",
+        "to": 201005029400900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201005029100000,
+        "to_type": "Definition",
+        "to": 201005029401000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201005029100000,
+        "to_type": "Definition",
+        "to": 201005029401100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201005029100000,
+        "to_type": "Definition",
+        "to": 201005029401200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201005029100000,
+        "to_type": "Definition",
+        "to": 201005029401300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201105002100000,
+        "to_type": "Definition",
+        "to": 201105002400100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201105002100000,
+        "to_type": "Definition",
+        "to": 201105002400200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201105002100000,
+        "to_type": "Definition",
+        "to": 201105002400300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201105002100000,
+        "to_type": "Definition",
+        "to": 201105002400400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201105002100000,
+        "to_type": "Definition",
+        "to": 201105002400500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201105002100000,
+        "to_type": "Definition",
+        "to": 201105002400600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201105002100000,
+        "to_type": "Definition",
+        "to": 201105002400700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201105002100000,
+        "to_type": "Definition",
+        "to": 201105002400800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201105002100000,
+        "to_type": "Definition",
+        "to": 201105002400900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201105002100000,
+        "to_type": "Definition",
+        "to": 201105002401000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201105002100000,
+        "to_type": "Definition",
+        "to": 201105002401100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201105002100000,
+        "to_type": "Definition",
+        "to": 201105002401200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201105002100000,
+        "to_type": "Definition",
+        "to": 201105002401300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201105002100000,
+        "to_type": "Definition",
+        "to": 201105002401400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201105002100000,
+        "to_type": "Definition",
+        "to": 201105002401500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201205041100000,
+        "to_type": "Definition",
+        "to": 201205041400100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201205041100000,
+        "to_type": "Definition",
+        "to": 201205041400200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201205041100000,
+        "to_type": "Definition",
+        "to": 201205041400300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201205041100000,
+        "to_type": "Definition",
+        "to": 201205041400400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201205041100000,
+        "to_type": "Definition",
+        "to": 201205041400500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201205041100000,
+        "to_type": "Definition",
+        "to": 201205041400600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201205041100000,
+        "to_type": "Definition",
+        "to": 201205041400700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201205041100000,
+        "to_type": "Definition",
+        "to": 201205041400800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201205041100000,
+        "to_type": "Definition",
+        "to": 201205041400900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201205041100000,
+        "to_type": "Definition",
+        "to": 201205041401000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201205041100000,
+        "to_type": "Definition",
+        "to": 201205041401100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201305020100000,
+        "to_type": "Definition",
+        "to": 201305020400100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201305020100000,
+        "to_type": "Definition",
+        "to": 201305020400200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201305020100000,
+        "to_type": "Definition",
+        "to": 201305020400300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201305020100000,
+        "to_type": "Definition",
+        "to": 201305020400400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201305020100000,
+        "to_type": "Definition",
+        "to": 201305020400500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201305023100000,
+        "to_type": "Definition",
+        "to": 201305023400100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201305023100000,
+        "to_type": "Definition",
+        "to": 201305023400200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201305023100000,
+        "to_type": "Definition",
+        "to": 201305023400300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201305023100000,
+        "to_type": "Definition",
+        "to": 201305023400400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201305023100000,
+        "to_type": "Definition",
+        "to": 201305023400500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201305023100000,
+        "to_type": "Definition",
+        "to": 201305023400600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201305023100000,
+        "to_type": "Definition",
+        "to": 201305023400700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201305023100000,
+        "to_type": "Definition",
+        "to": 201305023400800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201305023100000,
+        "to_type": "Definition",
+        "to": 201305023400900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201305023100000,
+        "to_type": "Definition",
+        "to": 201305023401000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201305023100000,
+        "to_type": "Definition",
+        "to": 201305023401100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201305023100000,
+        "to_type": "Definition",
+        "to": 201305023401200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201305023100000,
+        "to_type": "Definition",
+        "to": 201305023401300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201305023100000,
+        "to_type": "Definition",
+        "to": 201305023401400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201305023100000,
+        "to_type": "Definition",
+        "to": 201305023401500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201305024100000,
+        "to_type": "Definition",
+        "to": 201305024400100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201305024100000,
+        "to_type": "Definition",
+        "to": 201305024400200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201305024100000,
+        "to_type": "Definition",
+        "to": 201305024400300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201305024100000,
+        "to_type": "Definition",
+        "to": 201305024400400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201305024100000,
+        "to_type": "Definition",
+        "to": 201305024400500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201305024100000,
+        "to_type": "Definition",
+        "to": 201305024400600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201305024100000,
+        "to_type": "Definition",
+        "to": 201305024400700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201305024100000,
+        "to_type": "Definition",
+        "to": 201305024400800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201305024100000,
+        "to_type": "Definition",
+        "to": 201305024400900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201305024100000,
+        "to_type": "Definition",
+        "to": 201305024401000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201305024100000,
+        "to_type": "Definition",
+        "to": 201305024401100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201405014100000,
+        "to_type": "Definition",
+        "to": 201405014400100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201405014100000,
+        "to_type": "Definition",
+        "to": 201405014400200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201405014100000,
+        "to_type": "Definition",
+        "to": 201405014400300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201405014100000,
+        "to_type": "Definition",
+        "to": 201405014400400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201405014100000,
+        "to_type": "Definition",
+        "to": 201405014400500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201405014100000,
+        "to_type": "Definition",
+        "to": 201405014400600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201405014100000,
+        "to_type": "Definition",
+        "to": 201405014400700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201405014100000,
+        "to_type": "Definition",
+        "to": 201405014400800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201405014100000,
+        "to_type": "Definition",
+        "to": 201405014400900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201405014100000,
+        "to_type": "Definition",
+        "to": 201405014401000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201405014100000,
+        "to_type": "Definition",
+        "to": 201405014401100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201505026100000,
+        "to_type": "Definition",
+        "to": 201505026400100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201505026100000,
+        "to_type": "Definition",
+        "to": 201505026400200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201505026100000,
+        "to_type": "Definition",
+        "to": 201505026400300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201505026100000,
+        "to_type": "Definition",
+        "to": 201505026400400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201505026100000,
+        "to_type": "Definition",
+        "to": 201505026400500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201505032100000,
+        "to_type": "Definition",
+        "to": 201505032400100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201505032100000,
+        "to_type": "Definition",
+        "to": 201505032400200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201505032100000,
+        "to_type": "Definition",
+        "to": 201505032400300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201505032100000,
+        "to_type": "Definition",
+        "to": 201505032400400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201505032100000,
+        "to_type": "Definition",
+        "to": 201505032400500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201505032100000,
+        "to_type": "Definition",
+        "to": 201505032400600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201505032100000,
+        "to_type": "Definition",
+        "to": 201505032400700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201505032100000,
+        "to_type": "Definition",
+        "to": 201505032400800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201505032100000,
+        "to_type": "Definition",
+        "to": 201505032400900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201505032100000,
+        "to_type": "Definition",
+        "to": 201505032401000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201505032100000,
+        "to_type": "Definition",
+        "to": 201505032401100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201505032100000,
+        "to_type": "Definition",
+        "to": 201505032401200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201505032100000,
+        "to_type": "Definition",
+        "to": 201505032401300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201505032100000,
+        "to_type": "Definition",
+        "to": 201505032401400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201505032100000,
+        "to_type": "Definition",
+        "to": 201505032401500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201605004100000,
+        "to_type": "Definition",
+        "to": 201605004400100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201605004100000,
+        "to_type": "Definition",
+        "to": 201605004400200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201605004100000,
+        "to_type": "Definition",
+        "to": 201605004400300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201605004100000,
+        "to_type": "Definition",
+        "to": 201605004400400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201605004100000,
+        "to_type": "Definition",
+        "to": 201605004400500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201605004100000,
+        "to_type": "Definition",
+        "to": 201605004400600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201605004100000,
+        "to_type": "Definition",
+        "to": 201605004400700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201605004100000,
+        "to_type": "Definition",
+        "to": 201605004400800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201605004100000,
+        "to_type": "Definition",
+        "to": 201605004400900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201605004100000,
+        "to_type": "Definition",
+        "to": 201605004401000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201605004100000,
+        "to_type": "Definition",
+        "to": 201605004401100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201605004100000,
+        "to_type": "Definition",
+        "to": 201605004401200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201605004100000,
+        "to_type": "Definition",
+        "to": 201605004401300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201605004100000,
+        "to_type": "Definition",
+        "to": 201605004401400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201605004100000,
+        "to_type": "Definition",
+        "to": 201605004401500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201605004100000,
+        "to_type": "Definition",
+        "to": 201605004401600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201605004100000,
+        "to_type": "Definition",
+        "to": 201605004401700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201605004100000,
+        "to_type": "Definition",
+        "to": 201605004401800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201605004100000,
+        "to_type": "Definition",
+        "to": 201605004401900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201605004100000,
+        "to_type": "Definition",
+        "to": 201605004402000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201605010100000,
+        "to_type": "Definition",
+        "to": 201605010400100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201605010100000,
+        "to_type": "Definition",
+        "to": 201605010400200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201605010100000,
+        "to_type": "Definition",
+        "to": 201605010400300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201605010100000,
+        "to_type": "Definition",
+        "to": 201605010400400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201605010100000,
+        "to_type": "Definition",
+        "to": 201605010400500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201605010100000,
+        "to_type": "Definition",
+        "to": 201605010400600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201605010100000,
+        "to_type": "Definition",
+        "to": 201605010400700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201605014100000,
+        "to_type": "Definition",
+        "to": 201605014400100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201605014100000,
+        "to_type": "Definition",
+        "to": 201605014400200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201605014100000,
+        "to_type": "Definition",
+        "to": 201605014400300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201605014100000,
+        "to_type": "Definition",
+        "to": 201605014400400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201605014100000,
+        "to_type": "Definition",
+        "to": 201605014400500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201605014100000,
+        "to_type": "Definition",
+        "to": 201605014400600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201605014100000,
+        "to_type": "Definition",
+        "to": 201605014400700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201605020100000,
+        "to_type": "Definition",
+        "to": 201605020400100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201605020100000,
+        "to_type": "Definition",
+        "to": 201605020400200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201605020100000,
+        "to_type": "Definition",
+        "to": 201605020400300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201605020100000,
+        "to_type": "Definition",
+        "to": 201605020400400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201605020100000,
+        "to_type": "Definition",
+        "to": 201605020400500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201605020100000,
+        "to_type": "Definition",
+        "to": 201605020400600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201605020100000,
+        "to_type": "Definition",
+        "to": 201605020400700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201605020100000,
+        "to_type": "Definition",
+        "to": 201605020400800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201605020100000,
+        "to_type": "Definition",
+        "to": 201605020400900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201605020100000,
+        "to_type": "Definition",
+        "to": 201605020401000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201705005100000,
+        "to_type": "Definition",
+        "to": 201705005400100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201705005100000,
+        "to_type": "Definition",
+        "to": 201705005400200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201705005100000,
+        "to_type": "Definition",
+        "to": 201705005400300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201705005100000,
+        "to_type": "Definition",
+        "to": 201705005400400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201705005100000,
+        "to_type": "Definition",
+        "to": 201705005400500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201705005100000,
+        "to_type": "Definition",
+        "to": 201705005400600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201705005100000,
+        "to_type": "Definition",
+        "to": 201705005400700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201705005100000,
+        "to_type": "Definition",
+        "to": 201705005400800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201705005100000,
+        "to_type": "Definition",
+        "to": 201705005400900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201705005100000,
+        "to_type": "Definition",
+        "to": 201705005401000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201705005100000,
+        "to_type": "Definition",
+        "to": 201705005401100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201705005100000,
+        "to_type": "Definition",
+        "to": 201705005401200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201705005100000,
+        "to_type": "Definition",
+        "to": 201705005401300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201705006100000,
+        "to_type": "Definition",
+        "to": 201705006400100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201705006100000,
+        "to_type": "Definition",
+        "to": 201705006400200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201705006100000,
+        "to_type": "Definition",
+        "to": 201705006400300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201705006100000,
+        "to_type": "Definition",
+        "to": 201705006400400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201705006100000,
+        "to_type": "Definition",
+        "to": 201705006400500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201705006100000,
+        "to_type": "Definition",
+        "to": 201705006400600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201705006100000,
+        "to_type": "Definition",
+        "to": 201705006400700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201705006100000,
+        "to_type": "Definition",
+        "to": 201705006400800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201705006100000,
+        "to_type": "Definition",
+        "to": 201705006400900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201705006100000,
+        "to_type": "Definition",
+        "to": 201705006401000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201705006100000,
+        "to_type": "Definition",
+        "to": 201705006401100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201705006100000,
+        "to_type": "Definition",
+        "to": 201705006401200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201705006100000,
+        "to_type": "Definition",
+        "to": 201705006401300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201705006100000,
+        "to_type": "Definition",
+        "to": 201705006401400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201705006100000,
+        "to_type": "Definition",
+        "to": 201705006401500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201705006100000,
+        "to_type": "Definition",
+        "to": 201705006401600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201705006100000,
+        "to_type": "Definition",
+        "to": 201705006401700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201705006100000,
+        "to_type": "Definition",
+        "to": 201705006401800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805001100000,
+        "to_type": "Definition",
+        "to": 201805001400100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805001100000,
+        "to_type": "Definition",
+        "to": 201805001400200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805001100000,
+        "to_type": "Definition",
+        "to": 201805001400300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805001100000,
+        "to_type": "Definition",
+        "to": 201805001400400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805001100000,
+        "to_type": "Definition",
+        "to": 201805001400500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805001100000,
+        "to_type": "Definition",
+        "to": 201805001400600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805001100000,
+        "to_type": "Definition",
+        "to": 201805001400700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805001100000,
+        "to_type": "Definition",
+        "to": 201805001400800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805001100000,
+        "to_type": "Definition",
+        "to": 201805001400900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805001100000,
+        "to_type": "Definition",
+        "to": 201805001401000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805001100000,
+        "to_type": "Definition",
+        "to": 201805001401100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805001100000,
+        "to_type": "Definition",
+        "to": 201805001401200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805001100000,
+        "to_type": "Definition",
+        "to": 201805001401300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805001100000,
+        "to_type": "Definition",
+        "to": 201805001401400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805001100000,
+        "to_type": "Definition",
+        "to": 201805001401500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805001100000,
+        "to_type": "Definition",
+        "to": 201805001401600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805001100000,
+        "to_type": "Definition",
+        "to": 201805001401700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805001100000,
+        "to_type": "Definition",
+        "to": 201805001401800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805001100000,
+        "to_type": "Definition",
+        "to": 201805001401900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805001100000,
+        "to_type": "Definition",
+        "to": 201805001402000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805010100000,
+        "to_type": "Definition",
+        "to": 201805010400100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805010100000,
+        "to_type": "Definition",
+        "to": 201805010400200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805010100000,
+        "to_type": "Definition",
+        "to": 201805010400300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805010100000,
+        "to_type": "Definition",
+        "to": 201805010400400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805010100000,
+        "to_type": "Definition",
+        "to": 201805010400500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805010100000,
+        "to_type": "Definition",
+        "to": 201805010400600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805010100000,
+        "to_type": "Definition",
+        "to": 201805010400700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805010100000,
+        "to_type": "Definition",
+        "to": 201805010400800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805011100000,
+        "to_type": "Definition",
+        "to": 201805011400100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805011100000,
+        "to_type": "Definition",
+        "to": 201805011400200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805011100000,
+        "to_type": "Definition",
+        "to": 201805011400300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805011100000,
+        "to_type": "Definition",
+        "to": 201805011400400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805011100000,
+        "to_type": "Definition",
+        "to": 201805011400500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805011100000,
+        "to_type": "Definition",
+        "to": 201805011400600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805011100000,
+        "to_type": "Definition",
+        "to": 201805011400700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805011100000,
+        "to_type": "Definition",
+        "to": 201805011400800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805011100000,
+        "to_type": "Definition",
+        "to": 201805011400900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805011100000,
+        "to_type": "Definition",
+        "to": 201805011401000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805011100000,
+        "to_type": "Definition",
+        "to": 201805011401100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805011100000,
+        "to_type": "Definition",
+        "to": 201805011401200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805011100000,
+        "to_type": "Definition",
+        "to": 201805011401300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805011100000,
+        "to_type": "Definition",
+        "to": 201805011401400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805011100000,
+        "to_type": "Definition",
+        "to": 201805011401500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805011100000,
+        "to_type": "Definition",
+        "to": 201805011401600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805012100000,
+        "to_type": "Definition",
+        "to": 201805012400100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805012100000,
+        "to_type": "Definition",
+        "to": 201805012400200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805012100000,
+        "to_type": "Definition",
+        "to": 201805012400300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805012100000,
+        "to_type": "Definition",
+        "to": 201805012400400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805012100000,
+        "to_type": "Definition",
+        "to": 201805012400500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805012100000,
+        "to_type": "Definition",
+        "to": 201805012400600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805012100000,
+        "to_type": "Definition",
+        "to": 201805012400700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805012100000,
+        "to_type": "Definition",
+        "to": 201805012400800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805012100000,
+        "to_type": "Definition",
+        "to": 201805012400900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805012100000,
+        "to_type": "Definition",
+        "to": 201805012401000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805012100000,
+        "to_type": "Definition",
+        "to": 201805012401100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805012100000,
+        "to_type": "Definition",
+        "to": 201805012401200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805012100000,
+        "to_type": "Definition",
+        "to": 201805012401300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805012100000,
+        "to_type": "Definition",
+        "to": 201805012401400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805012100000,
+        "to_type": "Definition",
+        "to": 201805012401500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805016100000,
+        "to_type": "Definition",
+        "to": 201805016400100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805016100000,
+        "to_type": "Definition",
+        "to": 201805016400200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805016100000,
+        "to_type": "Definition",
+        "to": 201805016400300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805016100000,
+        "to_type": "Definition",
+        "to": 201805016400400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805016100000,
+        "to_type": "Definition",
+        "to": 201805016400500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805016100000,
+        "to_type": "Definition",
+        "to": 201805016400600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805016100000,
+        "to_type": "Definition",
+        "to": 201805016400700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805016100000,
+        "to_type": "Definition",
+        "to": 201805016400800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805016100000,
+        "to_type": "Definition",
+        "to": 201805016400900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805016100000,
+        "to_type": "Definition",
+        "to": 201805016401000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805016100000,
+        "to_type": "Definition",
+        "to": 201805016401100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805016100000,
+        "to_type": "Definition",
+        "to": 201805016401200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805016100000,
+        "to_type": "Definition",
+        "to": 201805016401300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805016100000,
+        "to_type": "Definition",
+        "to": 201805016401400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805016100000,
+        "to_type": "Definition",
+        "to": 201805016401500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805016100000,
+        "to_type": "Definition",
+        "to": 201805016401600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805016100000,
+        "to_type": "Definition",
+        "to": 201805016401700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805016100000,
+        "to_type": "Definition",
+        "to": 201805016401800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805016100000,
+        "to_type": "Definition",
+        "to": 201805016401900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805016100000,
+        "to_type": "Definition",
+        "to": 201805016402000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805016100000,
+        "to_type": "Definition",
+        "to": 201805016402100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805016100000,
+        "to_type": "Definition",
+        "to": 201805016402200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805016100000,
+        "to_type": "Definition",
+        "to": 201805016402300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805016100000,
+        "to_type": "Definition",
+        "to": 201805016402400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805016100000,
+        "to_type": "Definition",
+        "to": 201805016402500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805016100000,
+        "to_type": "Definition",
+        "to": 201805016402600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201905005100000,
+        "to_type": "Definition",
+        "to": 201905005400100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201905005100000,
+        "to_type": "Definition",
+        "to": 201905005400200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201905005100000,
+        "to_type": "Definition",
+        "to": 201905005400300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201905005100000,
+        "to_type": "Definition",
+        "to": 201905005400400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201905005100000,
+        "to_type": "Definition",
+        "to": 201905005400500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201905005100000,
+        "to_type": "Definition",
+        "to": 201905005400600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201905005100000,
+        "to_type": "Definition",
+        "to": 201905005400700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201905005100000,
+        "to_type": "Definition",
+        "to": 201905005400800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201905005100000,
+        "to_type": "Definition",
+        "to": 201905005400900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201905005100000,
+        "to_type": "Definition",
+        "to": 201905005401000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201905005100000,
+        "to_type": "Definition",
+        "to": 201905005401100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201905005100000,
+        "to_type": "Definition",
+        "to": 201905005401200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201905005100000,
+        "to_type": "Definition",
+        "to": 201905005401300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201905013100000,
+        "to_type": "Definition",
+        "to": 201905013400100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201905013100000,
+        "to_type": "Definition",
+        "to": 201905013400200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201905013100000,
+        "to_type": "Definition",
+        "to": 201905013400300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201905013100000,
+        "to_type": "Definition",
+        "to": 201905013400400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201905013100000,
+        "to_type": "Definition",
+        "to": 201905013400500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201905013100000,
+        "to_type": "Definition",
+        "to": 201905013400600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201905013100000,
+        "to_type": "Definition",
+        "to": 201905013400700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201905013100000,
+        "to_type": "Definition",
+        "to": 201905013400800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201905013100000,
+        "to_type": "Definition",
+        "to": 201905013400900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201905013100000,
+        "to_type": "Definition",
+        "to": 201905013401000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201905013100000,
+        "to_type": "Definition",
+        "to": 201905013401100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201905013100000,
+        "to_type": "Definition",
+        "to": 201905013401200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201905013100000,
+        "to_type": "Definition",
+        "to": 201905013401300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201905013100000,
+        "to_type": "Definition",
+        "to": 201905013401400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201905013100000,
+        "to_type": "Definition",
+        "to": 201905013401500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201905013100000,
+        "to_type": "Definition",
+        "to": 201905013401600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201905013100000,
+        "to_type": "Definition",
+        "to": 201905013401700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201905013100000,
+        "to_type": "Definition",
+        "to": 201905013401800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201905013100000,
+        "to_type": "Definition",
+        "to": 201905013401900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201905013100000,
+        "to_type": "Definition",
+        "to": 201905013402000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201905013100000,
+        "to_type": "Definition",
+        "to": 201905013402100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201905013100000,
+        "to_type": "Definition",
+        "to": 201905013402200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201905013100000,
+        "to_type": "Definition",
+        "to": 201905013402300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201905013100000,
+        "to_type": "Definition",
+        "to": 201905013402400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201905013100000,
+        "to_type": "Definition",
+        "to": 201905013402500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201905013100000,
+        "to_type": "Definition",
+        "to": 201905013402600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201905013100000,
+        "to_type": "Definition",
+        "to": 201905013402700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201905013100000,
+        "to_type": "Definition",
+        "to": 201905013402800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201905013100000,
+        "to_type": "Definition",
+        "to": 201905013402900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201905013100000,
+        "to_type": "Definition",
+        "to": 201905013403000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201905013100000,
+        "to_type": "Definition",
+        "to": 201905013403100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201905013100000,
+        "to_type": "Definition",
+        "to": 201905013403200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201905013100000,
+        "to_type": "Definition",
+        "to": 201905013403300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201905013100000,
+        "to_type": "Definition",
+        "to": 201905013403400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201905013100000,
+        "to_type": "Definition",
+        "to": 201905013403500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201905013100000,
+        "to_type": "Definition",
+        "to": 201905013403600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201905013100000,
+        "to_type": "Definition",
+        "to": 201905013403700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201905013100000,
+        "to_type": "Definition",
+        "to": 201905013403800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201905013100000,
+        "to_type": "Definition",
+        "to": 201905013403900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201905013100000,
+        "to_type": "Definition",
+        "to": 201905013404000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201905013100000,
+        "to_type": "Definition",
+        "to": 201905013404100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201905013100000,
+        "to_type": "Definition",
+        "to": 201905013404200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202005001100000,
+        "to_type": "Definition",
+        "to": 202005001400100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202005001100000,
+        "to_type": "Definition",
+        "to": 202005001400200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202005001100000,
+        "to_type": "Definition",
+        "to": 202005001400300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202005001100000,
+        "to_type": "Definition",
+        "to": 202005001400400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202005001100000,
+        "to_type": "Definition",
+        "to": 202005001400500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202005001100000,
+        "to_type": "Definition",
+        "to": 202005001400600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202005001100000,
+        "to_type": "Definition",
+        "to": 202005001400700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202005001100000,
+        "to_type": "Definition",
+        "to": 202005001400800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202005001100000,
+        "to_type": "Definition",
+        "to": 202005001400900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202005001100000,
+        "to_type": "Definition",
+        "to": 202005001401000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202005001100000,
+        "to_type": "Definition",
+        "to": 202005001401100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202005001100000,
+        "to_type": "Definition",
+        "to": 202005001401200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202005001100000,
+        "to_type": "Definition",
+        "to": 202005001401300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202005001100000,
+        "to_type": "Definition",
+        "to": 202005001401400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202005001100000,
+        "to_type": "Definition",
+        "to": 202005001401500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202005001100000,
+        "to_type": "Definition",
+        "to": 202005001401600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202005005100000,
+        "to_type": "Definition",
+        "to": 202005005400100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202005005100000,
+        "to_type": "Definition",
+        "to": 202005005400200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202005005100000,
+        "to_type": "Definition",
+        "to": 202005005400300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202005005100000,
+        "to_type": "Definition",
+        "to": 202005005400400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202005005100000,
+        "to_type": "Definition",
+        "to": 202005005400500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202005005100000,
+        "to_type": "Definition",
+        "to": 202005005400600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202005005100000,
+        "to_type": "Definition",
+        "to": 202005005400700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202005005100000,
+        "to_type": "Definition",
+        "to": 202005005400800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202005005100000,
+        "to_type": "Definition",
+        "to": 202005005400900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202005005100000,
+        "to_type": "Definition",
+        "to": 202005005401000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202005005100000,
+        "to_type": "Definition",
+        "to": 202005005401100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202005005100000,
+        "to_type": "Definition",
+        "to": 202005005401200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202005005100000,
+        "to_type": "Definition",
+        "to": 202005005401300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202005005100000,
+        "to_type": "Definition",
+        "to": 202005005401400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202005005100000,
+        "to_type": "Definition",
+        "to": 202005005401500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202005005100000,
+        "to_type": "Definition",
+        "to": 202005005401600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202005005100000,
+        "to_type": "Definition",
+        "to": 202005005401700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202005005100000,
+        "to_type": "Definition",
+        "to": 202005005401800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202005005100000,
+        "to_type": "Definition",
+        "to": 202005005401900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202005005100000,
+        "to_type": "Definition",
+        "to": 202005005402000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202005005100000,
+        "to_type": "Definition",
+        "to": 202005005402100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202005005100000,
+        "to_type": "Definition",
+        "to": 202005005402200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202005005100000,
+        "to_type": "Definition",
+        "to": 202005005402300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202005005100000,
+        "to_type": "Definition",
+        "to": 202005005402400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202005005100000,
+        "to_type": "Definition",
+        "to": 202005005402500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202005005100000,
+        "to_type": "Definition",
+        "to": 202005005402600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105001100000,
+        "to_type": "Definition",
+        "to": 202105001400100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105001100000,
+        "to_type": "Definition",
+        "to": 202105001400200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105001100000,
+        "to_type": "Definition",
+        "to": 202105001400300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105001100000,
+        "to_type": "Definition",
+        "to": 202105001400400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105001100000,
+        "to_type": "Definition",
+        "to": 202105001400500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105001100000,
+        "to_type": "Definition",
+        "to": 202105001400600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105001100000,
+        "to_type": "Definition",
+        "to": 202105001400700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105001100000,
+        "to_type": "Definition",
+        "to": 202105001400800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105001100000,
+        "to_type": "Definition",
+        "to": 202105001400900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105001100000,
+        "to_type": "Definition",
+        "to": 202105001401000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105001100000,
+        "to_type": "Definition",
+        "to": 202105001401100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105001100000,
+        "to_type": "Definition",
+        "to": 202105001401200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105001100000,
+        "to_type": "Definition",
+        "to": 202105001401300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105001100000,
+        "to_type": "Definition",
+        "to": 202105001401400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105001100000,
+        "to_type": "Definition",
+        "to": 202105001401500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105001100000,
+        "to_type": "Definition",
+        "to": 202105001401600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105001100000,
+        "to_type": "Definition",
+        "to": 202105001401700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105001100000,
+        "to_type": "Definition",
+        "to": 202105001401800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105001100000,
+        "to_type": "Definition",
+        "to": 202105001401900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105001100000,
+        "to_type": "Definition",
+        "to": 202105001402000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105001100000,
+        "to_type": "Definition",
+        "to": 202105001402100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105001100000,
+        "to_type": "Definition",
+        "to": 202105001402200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105001100000,
+        "to_type": "Definition",
+        "to": 202105001402300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105001100000,
+        "to_type": "Definition",
+        "to": 202105001402400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105001100000,
+        "to_type": "Definition",
+        "to": 202105001402500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105001100000,
+        "to_type": "Definition",
+        "to": 202105001402600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105001100000,
+        "to_type": "Definition",
+        "to": 202105001402700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105001100000,
+        "to_type": "Definition",
+        "to": 202105001402800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105001100000,
+        "to_type": "Definition",
+        "to": 202105001402900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105001100000,
+        "to_type": "Definition",
+        "to": 202105001403000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105001100000,
+        "to_type": "Definition",
+        "to": 202105001403100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105001100000,
+        "to_type": "Definition",
+        "to": 202105001403200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105001100000,
+        "to_type": "Definition",
+        "to": 202105001403300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105001100000,
+        "to_type": "Definition",
+        "to": 202105001403400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105001100000,
+        "to_type": "Definition",
+        "to": 202105001403500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105001100000,
+        "to_type": "Definition",
+        "to": 202105001403600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105001100000,
+        "to_type": "Definition",
+        "to": 202105001403700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105001100000,
+        "to_type": "Definition",
+        "to": 202105001403800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105001100000,
+        "to_type": "Definition",
+        "to": 202105001403900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105001100000,
+        "to_type": "Definition",
+        "to": 202105001404000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105001100000,
+        "to_type": "Definition",
+        "to": 202105001404100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105001100000,
+        "to_type": "Definition",
+        "to": 202105001404200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105001100000,
+        "to_type": "Definition",
+        "to": 202105001404300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105001100000,
+        "to_type": "Definition",
+        "to": 202105001404400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105001100000,
+        "to_type": "Definition",
+        "to": 202105001404500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005400100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005400200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005400300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005400400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005400500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005400600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005400700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005400800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005400900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005401000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005401100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005401200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005401300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005401400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005401500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005401600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005401700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005401800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005401900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005402000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005402100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005402200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005402300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005402400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005402500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005402600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005402700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005402800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005402900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005403000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005403100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005403200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005403300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005403400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005403500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005403600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005403700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005403800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005403900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005404000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005404100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005404200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005404300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005404400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005404500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005404600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005404700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005404800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005404900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005405000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005405100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005405200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005405300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005405400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005405500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005405600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005405700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005405800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005405900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005406000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005406100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005406200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005406300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005406400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005406500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005406600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005406700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005406800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005406900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005407000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005407100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005407200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005407300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005407400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005407500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005407600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005407700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005407800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005407900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005408000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005408100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005408200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005408300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005408400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005408500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005408600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005408700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005408800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005408900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005409000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005409100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005409200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005409300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005409400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005409500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005409600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005409700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005409800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005409900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005410000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005410100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005410200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005410300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005410400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005410500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005410600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005410700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005410800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005410900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005411000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Definition",
+        "to": 202105005411100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105006100000,
+        "to_type": "Definition",
+        "to": 202105006400100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105006100000,
+        "to_type": "Definition",
+        "to": 202105006400200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105006100000,
+        "to_type": "Definition",
+        "to": 202105006400300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105006100000,
+        "to_type": "Definition",
+        "to": 202105006400400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105006100000,
+        "to_type": "Definition",
+        "to": 202105006400500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105006100000,
+        "to_type": "Definition",
+        "to": 202105006400600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105006100000,
+        "to_type": "Definition",
+        "to": 202105006400700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105006100000,
+        "to_type": "Definition",
+        "to": 202105006400800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105006100000,
+        "to_type": "Definition",
+        "to": 202105006400900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105006100000,
+        "to_type": "Definition",
+        "to": 202105006401000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105006100000,
+        "to_type": "Definition",
+        "to": 202105006401100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105006100000,
+        "to_type": "Definition",
+        "to": 202105006401200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105006100000,
+        "to_type": "Definition",
+        "to": 202105006401300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105006100000,
+        "to_type": "Definition",
+        "to": 202105006401400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105006100000,
+        "to_type": "Definition",
+        "to": 202105006401500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105006100000,
+        "to_type": "Definition",
+        "to": 202105006401600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105006100000,
+        "to_type": "Definition",
+        "to": 202105006401700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105006100000,
+        "to_type": "Definition",
+        "to": 202105006401800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105006100000,
+        "to_type": "Definition",
+        "to": 202105006401900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105006100000,
+        "to_type": "Definition",
+        "to": 202105006402000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105006100000,
+        "to_type": "Definition",
+        "to": 202105006402100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105006100000,
+        "to_type": "Definition",
+        "to": 202105006402200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105006100000,
+        "to_type": "Definition",
+        "to": 202105006402300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105006100000,
+        "to_type": "Definition",
+        "to": 202105006402400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105006100000,
+        "to_type": "Definition",
+        "to": 202105006402500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105006100000,
+        "to_type": "Definition",
+        "to": 202105006402600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105006100000,
+        "to_type": "Definition",
+        "to": 202105006402700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105006100000,
+        "to_type": "Definition",
+        "to": 202105006402800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105006100000,
+        "to_type": "Definition",
+        "to": 202105006402900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105006100000,
+        "to_type": "Definition",
+        "to": 202105006403000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105006100000,
+        "to_type": "Definition",
+        "to": 202105006403100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105006100000,
+        "to_type": "Definition",
+        "to": 202105006403200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105006100000,
+        "to_type": "Definition",
+        "to": 202105006403300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105006100000,
+        "to_type": "Definition",
+        "to": 202105006403400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105006100000,
+        "to_type": "Definition",
+        "to": 202105006403500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105006100000,
+        "to_type": "Definition",
+        "to": 202105006403600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105006100000,
+        "to_type": "Definition",
+        "to": 202105006403700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105006100000,
+        "to_type": "Definition",
+        "to": 202105006403800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105006100000,
+        "to_type": "Definition",
+        "to": 202105006403900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105006100000,
+        "to_type": "Definition",
+        "to": 202105006404000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105007100000,
+        "to_type": "Definition",
+        "to": 202105007400100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105007100000,
+        "to_type": "Definition",
+        "to": 202105007400200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105007100000,
+        "to_type": "Definition",
+        "to": 202105007400300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105007100000,
+        "to_type": "Definition",
+        "to": 202105007400400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105007100000,
+        "to_type": "Definition",
+        "to": 202105007400500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105007100000,
+        "to_type": "Definition",
+        "to": 202105007400600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105007100000,
+        "to_type": "Definition",
+        "to": 202105007400700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105007100000,
+        "to_type": "Definition",
+        "to": 202105007400800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105007100000,
+        "to_type": "Definition",
+        "to": 202105007400900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105007100000,
+        "to_type": "Definition",
+        "to": 202105007401000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105007100000,
+        "to_type": "Definition",
+        "to": 202105007401100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105007100000,
+        "to_type": "Definition",
+        "to": 202105007401200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105007100000,
+        "to_type": "Definition",
+        "to": 202105007401300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105007100000,
+        "to_type": "Definition",
+        "to": 202105007401400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105007100000,
+        "to_type": "Definition",
+        "to": 202105007401500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105007100000,
+        "to_type": "Definition",
+        "to": 202105007401600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105007100000,
+        "to_type": "Definition",
+        "to": 202105007401700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105007100000,
+        "to_type": "Definition",
+        "to": 202105007401800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105007100000,
+        "to_type": "Definition",
+        "to": 202105007401900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105007100000,
+        "to_type": "Definition",
+        "to": 202105007402000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105007100000,
+        "to_type": "Definition",
+        "to": 202105007402100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105007100000,
+        "to_type": "Definition",
+        "to": 202105007402200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105007100000,
+        "to_type": "Definition",
+        "to": 202105007402300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105007100000,
+        "to_type": "Definition",
+        "to": 202105007402400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105007100000,
+        "to_type": "Definition",
+        "to": 202105007402500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105007100000,
+        "to_type": "Definition",
+        "to": 202105007402600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105007100000,
+        "to_type": "Definition",
+        "to": 202105007402700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202205016100000,
+        "to_type": "Definition",
+        "to": 202205016400100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202205016100000,
+        "to_type": "Definition",
+        "to": 202205016400200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202205016100000,
+        "to_type": "Definition",
+        "to": 202205016400300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202205016100000,
+        "to_type": "Definition",
+        "to": 202205016400400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202205016100000,
+        "to_type": "Definition",
+        "to": 202205016400500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202205016100000,
+        "to_type": "Definition",
+        "to": 202205016400600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202205016100000,
+        "to_type": "Definition",
+        "to": 202205016400700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202205016100000,
+        "to_type": "Definition",
+        "to": 202205016400800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202205016100000,
+        "to_type": "Definition",
+        "to": 202205016400900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202205016100000,
+        "to_type": "Definition",
+        "to": 202205016401000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202205016100000,
+        "to_type": "Definition",
+        "to": 202205016401100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202205016100000,
+        "to_type": "Definition",
+        "to": 202205016401200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202205016100000,
+        "to_type": "Definition",
+        "to": 202205016401300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202205016100000,
+        "to_type": "Definition",
+        "to": 202205016401400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202205016100000,
+        "to_type": "Definition",
+        "to": 202205016401500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202205016100000,
+        "to_type": "Definition",
+        "to": 202205016401600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202205016100000,
+        "to_type": "Definition",
+        "to": 202205016401700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405003100000,
+        "to_type": "Definition",
+        "to": 202405003400100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405003100000,
+        "to_type": "Definition",
+        "to": 202405003400200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405003100000,
+        "to_type": "Definition",
+        "to": 202405003400300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405003100000,
+        "to_type": "Definition",
+        "to": 202405003400400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405003100000,
+        "to_type": "Definition",
+        "to": 202405003400500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405003100000,
+        "to_type": "Definition",
+        "to": 202405003400600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405003100000,
+        "to_type": "Definition",
+        "to": 202405003400700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405003100000,
+        "to_type": "Definition",
+        "to": 202405003400800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405003100000,
+        "to_type": "Definition",
+        "to": 202405003400900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405003100000,
+        "to_type": "Definition",
+        "to": 202405003401000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405003100000,
+        "to_type": "Definition",
+        "to": 202405003401100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405003100000,
+        "to_type": "Definition",
+        "to": 202405003401200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405003100000,
+        "to_type": "Definition",
+        "to": 202405003401300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405003100000,
+        "to_type": "Definition",
+        "to": 202405003401400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405003100000,
+        "to_type": "Definition",
+        "to": 202405003401500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405003100000,
+        "to_type": "Definition",
+        "to": 202405003401600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405003100000,
+        "to_type": "Definition",
+        "to": 202405003401700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405003100000,
+        "to_type": "Definition",
+        "to": 202405003401800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405003100000,
+        "to_type": "Definition",
+        "to": 202405003401900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405003100000,
+        "to_type": "Definition",
+        "to": 202405003402000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405003100000,
+        "to_type": "Definition",
+        "to": 202405003402100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405003100000,
+        "to_type": "Definition",
+        "to": 202405003402200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405003100000,
+        "to_type": "Definition",
+        "to": 202405003402300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405003100000,
+        "to_type": "Definition",
+        "to": 202405003402400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405003100000,
+        "to_type": "Definition",
+        "to": 202405003402500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405003100000,
+        "to_type": "Definition",
+        "to": 202405003402600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405003100000,
+        "to_type": "Definition",
+        "to": 202405003402700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405003100000,
+        "to_type": "Definition",
+        "to": 202405003402800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405004100000,
+        "to_type": "Definition",
+        "to": 202405004400100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405004100000,
+        "to_type": "Definition",
+        "to": 202405004400200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405004100000,
+        "to_type": "Definition",
+        "to": 202405004400300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405004100000,
+        "to_type": "Definition",
+        "to": 202405004400400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405004100000,
+        "to_type": "Definition",
+        "to": 202405004400500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405004100000,
+        "to_type": "Definition",
+        "to": 202405004400600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405004100000,
+        "to_type": "Definition",
+        "to": 202405004400700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405004100000,
+        "to_type": "Definition",
+        "to": 202405004400800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405004100000,
+        "to_type": "Definition",
+        "to": 202405004400900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405004100000,
+        "to_type": "Definition",
+        "to": 202405004401000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405004100000,
+        "to_type": "Definition",
+        "to": 202405004401100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405004100000,
+        "to_type": "Definition",
+        "to": 202405004401200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405004100000,
+        "to_type": "Definition",
+        "to": 202405004401300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405004100000,
+        "to_type": "Definition",
+        "to": 202405004401400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405004100000,
+        "to_type": "Definition",
+        "to": 202405004401500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405004100000,
+        "to_type": "Definition",
+        "to": 202405004401600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405004100000,
+        "to_type": "Definition",
+        "to": 202405004401700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405004100000,
+        "to_type": "Definition",
+        "to": 202405004401800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405004100000,
+        "to_type": "Definition",
+        "to": 202405004401900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405004100000,
+        "to_type": "Definition",
+        "to": 202405004402000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405004100000,
+        "to_type": "Definition",
+        "to": 202405004402100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405004100000,
+        "to_type": "Definition",
+        "to": 202405004402200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405004100000,
+        "to_type": "Definition",
+        "to": 202405004402300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405004100000,
+        "to_type": "Definition",
+        "to": 202405004402400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405004100000,
+        "to_type": "Definition",
+        "to": 202405004402500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405004100000,
+        "to_type": "Definition",
+        "to": 202405004402600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405004100000,
+        "to_type": "Definition",
+        "to": 202405004402700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405004100000,
+        "to_type": "Definition",
+        "to": 202405004402800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405004100000,
+        "to_type": "Definition",
+        "to": 202405004402900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405004100000,
+        "to_type": "Definition",
+        "to": 202405004403000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405004100000,
+        "to_type": "Definition",
+        "to": 202405004403100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405004100000,
+        "to_type": "Definition",
+        "to": 202405004403200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405004100000,
+        "to_type": "Definition",
+        "to": 202405004403300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405004100000,
+        "to_type": "Definition",
+        "to": 202405004403400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405004100000,
+        "to_type": "Definition",
+        "to": 202405004403500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405004100000,
+        "to_type": "Definition",
+        "to": 202405004403600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405004100000,
+        "to_type": "Definition",
+        "to": 202405004403700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405004100000,
+        "to_type": "Definition",
+        "to": 202405004403800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405004100000,
+        "to_type": "Definition",
+        "to": 202405004403900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405004100000,
+        "to_type": "Definition",
+        "to": 202405004404000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405006100000,
+        "to_type": "Definition",
+        "to": 202405006400100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405006100000,
+        "to_type": "Definition",
+        "to": 202405006400200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405006100000,
+        "to_type": "Definition",
+        "to": 202405006400300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405006100000,
+        "to_type": "Definition",
+        "to": 202405006400400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405006100000,
+        "to_type": "Definition",
+        "to": 202405006400500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405006100000,
+        "to_type": "Definition",
+        "to": 202405006400600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405006100000,
+        "to_type": "Definition",
+        "to": 202405006400700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405006100000,
+        "to_type": "Definition",
+        "to": 202405006400800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405006100000,
+        "to_type": "Definition",
+        "to": 202405006400900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405006100000,
+        "to_type": "Definition",
+        "to": 202405006401000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405006100000,
+        "to_type": "Definition",
+        "to": 202405006401100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405006100000,
+        "to_type": "Definition",
+        "to": 202405006401200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405006100000,
+        "to_type": "Definition",
+        "to": 202405006401300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405006100000,
+        "to_type": "Definition",
+        "to": 202405006401400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200003052100000,
+        "to_type": "Definition",
+        "to": 200003052400100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200003052100000,
+        "to_type": "Definition",
+        "to": 200003052400200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200003052100000,
+        "to_type": "Definition",
+        "to": 200003052400300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200003052100000,
+        "to_type": "Definition",
+        "to": 200003052400400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200003052100000,
+        "to_type": "Definition",
+        "to": 200003052400500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200003052100000,
+        "to_type": "Definition",
+        "to": 200003052400600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200003052100000,
+        "to_type": "Definition",
+        "to": 200003052400700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200003052100000,
+        "to_type": "Definition",
+        "to": 200003052400800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200003052100000,
+        "to_type": "Definition",
+        "to": 200003052400900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200003052100000,
+        "to_type": "Definition",
+        "to": 200003052401000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200003052100000,
+        "to_type": "Definition",
+        "to": 200003052401100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200003052100000,
+        "to_type": "Definition",
+        "to": 200003052401200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200003052100000,
+        "to_type": "Definition",
+        "to": 200003052401300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200003052100000,
+        "to_type": "Definition",
+        "to": 200003052401400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903071100000,
+        "to_type": "Definition",
+        "to": 201903071400100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903071100000,
+        "to_type": "Definition",
+        "to": 201903071400200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903071100000,
+        "to_type": "Definition",
+        "to": 201903071400300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903071100000,
+        "to_type": "Definition",
+        "to": 201903071400400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903071100000,
+        "to_type": "Definition",
+        "to": 201903071400500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903071100000,
+        "to_type": "Definition",
+        "to": 201903071400600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903071100000,
+        "to_type": "Definition",
+        "to": 201903071400700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903071100000,
+        "to_type": "Definition",
+        "to": 201903071400800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903071100000,
+        "to_type": "Definition",
+        "to": 201903071400900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903071100000,
+        "to_type": "Definition",
+        "to": 201903071401000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903071100000,
+        "to_type": "Definition",
+        "to": 201903071401100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903071100000,
+        "to_type": "Definition",
+        "to": 201903071401200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903071100000,
+        "to_type": "Definition",
+        "to": 201903071401300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903071100000,
+        "to_type": "Definition",
+        "to": 201903071401400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903071100000,
+        "to_type": "Definition",
+        "to": 201903071401500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903071100000,
+        "to_type": "Definition",
+        "to": 201903071401600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903071100000,
+        "to_type": "Definition",
+        "to": 201903071401700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903071100000,
+        "to_type": "Definition",
+        "to": 201903071401800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903071100000,
+        "to_type": "Definition",
+        "to": 201903071401900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903071100000,
+        "to_type": "Definition",
+        "to": 201903071402000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903071100000,
+        "to_type": "Definition",
+        "to": 201903071402100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903071100000,
+        "to_type": "Definition",
+        "to": 201903071402200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903071100000,
+        "to_type": "Definition",
+        "to": 201903071402300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903071100000,
+        "to_type": "Definition",
+        "to": 201903071402400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903071100000,
+        "to_type": "Definition",
+        "to": 201903071402500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903071100000,
+        "to_type": "Definition",
+        "to": 201903071402600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903071100000,
+        "to_type": "Definition",
+        "to": 201903071402700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903071100000,
+        "to_type": "Definition",
+        "to": 201903071402800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903071100000,
+        "to_type": "Definition",
+        "to": 201903071402900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903071100000,
+        "to_type": "Definition",
+        "to": 201903071403000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903071100000,
+        "to_type": "Definition",
+        "to": 201903071403100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903071100000,
+        "to_type": "Definition",
+        "to": 201903071403200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903071100000,
+        "to_type": "Definition",
+        "to": 201903071403300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903071100000,
+        "to_type": "Definition",
+        "to": 201903071403400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903071100000,
+        "to_type": "Definition",
+        "to": 201903071403500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903071100000,
+        "to_type": "Definition",
+        "to": 201903071403600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903071100000,
+        "to_type": "Definition",
+        "to": 201903071403700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903071100000,
+        "to_type": "Definition",
+        "to": 201903071403800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903071100000,
+        "to_type": "Definition",
+        "to": 201903071403900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903080100000,
+        "to_type": "Definition",
+        "to": 201903080400100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903080100000,
+        "to_type": "Definition",
+        "to": 201903080400200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903080100000,
+        "to_type": "Definition",
+        "to": 201903080400300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903080100000,
+        "to_type": "Definition",
+        "to": 201903080400400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903080100000,
+        "to_type": "Definition",
+        "to": 201903080400500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903080100000,
+        "to_type": "Definition",
+        "to": 201903080400600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903080100000,
+        "to_type": "Definition",
+        "to": 201903080400700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903080100000,
+        "to_type": "Definition",
+        "to": 201903080400800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903080100000,
+        "to_type": "Definition",
+        "to": 201903080400900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903080100000,
+        "to_type": "Definition",
+        "to": 201903080401000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903080100000,
+        "to_type": "Definition",
+        "to": 201903080401100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903080100000,
+        "to_type": "Definition",
+        "to": 201903080401200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903080100000,
+        "to_type": "Definition",
+        "to": 201903080401300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903080100000,
+        "to_type": "Definition",
+        "to": 201903080401400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903080100000,
+        "to_type": "Definition",
+        "to": 201903080401500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903080100000,
+        "to_type": "Definition",
+        "to": 201903080401600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903080100000,
+        "to_type": "Definition",
+        "to": 201903080401700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903080100000,
+        "to_type": "Definition",
+        "to": 201903080401800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903080100000,
+        "to_type": "Definition",
+        "to": 201903080401900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903080100000,
+        "to_type": "Definition",
+        "to": 201903080402000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903080100000,
+        "to_type": "Definition",
+        "to": 201903080402100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903080100000,
+        "to_type": "Definition",
+        "to": 201903080402200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202103046100000,
+        "to_type": "Definition",
+        "to": 202103046400100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202103046100000,
+        "to_type": "Definition",
+        "to": 202103046400200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202103046100000,
+        "to_type": "Definition",
+        "to": 202103046400300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202103046100000,
+        "to_type": "Definition",
+        "to": 202103046400400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202103046100000,
+        "to_type": "Definition",
+        "to": 202103046400500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202103046100000,
+        "to_type": "Definition",
+        "to": 202103046400600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202103046100000,
+        "to_type": "Definition",
+        "to": 202103046400700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202103046100000,
+        "to_type": "Definition",
+        "to": 202103046400800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202103046100000,
+        "to_type": "Definition",
+        "to": 202103046400900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202103046100000,
+        "to_type": "Definition",
+        "to": 202103046401000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202103046100000,
+        "to_type": "Definition",
+        "to": 202103046401100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202103046100000,
+        "to_type": "Definition",
+        "to": 202103046401200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202103046100000,
+        "to_type": "Definition",
+        "to": 202103046401300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202103046100000,
+        "to_type": "Definition",
+        "to": 202103046401400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202103046100000,
+        "to_type": "Definition",
+        "to": 202103046401500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202103046100000,
+        "to_type": "Definition",
+        "to": 202103046401600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202103046100000,
+        "to_type": "Definition",
+        "to": 202103046401700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202103046100000,
+        "to_type": "Definition",
+        "to": 202103046401800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202103046100000,
+        "to_type": "Definition",
+        "to": 202103046401900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202103046100000,
+        "to_type": "Definition",
+        "to": 202103046402000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202103046100000,
+        "to_type": "Definition",
+        "to": 202103046402100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202103046100000,
+        "to_type": "Definition",
+        "to": 202103046402200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202103046100000,
+        "to_type": "Definition",
+        "to": 202103046402300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202103046100000,
+        "to_type": "Definition",
+        "to": 202103046402400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202103046100000,
+        "to_type": "Definition",
+        "to": 202103046402500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202103046100000,
+        "to_type": "Definition",
+        "to": 202103046402600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202103046100000,
+        "to_type": "Definition",
+        "to": 202103046402700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202103046100000,
+        "to_type": "Definition",
+        "to": 202103046402800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202103046100000,
+        "to_type": "Definition",
+        "to": 202103046402900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202103046100000,
+        "to_type": "Definition",
+        "to": 202103046403000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202103046100000,
+        "to_type": "Definition",
+        "to": 202103046403100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202103046100000,
+        "to_type": "Definition",
+        "to": 202103046403200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202103046100000,
+        "to_type": "Definition",
+        "to": 202103046403300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 199901036100000,
+        "to_type": "Definition",
+        "to": 199901036400100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 199901036100000,
+        "to_type": "Definition",
+        "to": 199901036400200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 199901036100000,
+        "to_type": "Definition",
+        "to": 199901036400300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 199901036100000,
+        "to_type": "Definition",
+        "to": 199901036400400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 199901036100000,
+        "to_type": "Definition",
+        "to": 199901036400500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 199901036100000,
+        "to_type": "Definition",
+        "to": 199901036400600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 199901036100000,
+        "to_type": "Definition",
+        "to": 199901036400700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 199901036100000,
+        "to_type": "Definition",
+        "to": 199901036400800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 199901036100000,
+        "to_type": "Definition",
+        "to": 199901036400900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 199901036100000,
+        "to_type": "Definition",
+        "to": 199901036401000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 199901036100000,
+        "to_type": "Definition",
+        "to": 199901036401100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 199901036100000,
+        "to_type": "Definition",
+        "to": 199901036401200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 199901036100000,
+        "to_type": "Definition",
+        "to": 199901036401300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 199901036100000,
+        "to_type": "Definition",
+        "to": 199901036401400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 199901036100000,
+        "to_type": "Definition",
+        "to": 199901036401500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 199901036100000,
+        "to_type": "Definition",
+        "to": 199901036401600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 199901036100000,
+        "to_type": "Definition",
+        "to": 199901036401700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 199901040100000,
+        "to_type": "Definition",
+        "to": 199901040400100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 199901040100000,
+        "to_type": "Definition",
+        "to": 199901040400200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 199901040100000,
+        "to_type": "Definition",
+        "to": 199901040400300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 199901040100000,
+        "to_type": "Definition",
+        "to": 199901040400400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 199901040100000,
+        "to_type": "Definition",
+        "to": 199901040400500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 199901040100000,
+        "to_type": "Definition",
+        "to": 199901040400600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 199901040100000,
+        "to_type": "Definition",
+        "to": 199901040400700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 199901040100000,
+        "to_type": "Definition",
+        "to": 199901040400800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 199901040100000,
+        "to_type": "Definition",
+        "to": 199901040400900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 199901040100000,
+        "to_type": "Definition",
+        "to": 199901040401000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 199901040100000,
+        "to_type": "Definition",
+        "to": 199901040401100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 199901040100000,
+        "to_type": "Definition",
+        "to": 199901040401200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 199901040100000,
+        "to_type": "Definition",
+        "to": 199901040401300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 199901040100000,
+        "to_type": "Definition",
+        "to": 199901040401400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200801011100000,
+        "to_type": "Definition",
+        "to": 200801011400100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200801011100000,
+        "to_type": "Definition",
+        "to": 200801011400200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200801011100000,
+        "to_type": "Definition",
+        "to": 200801011400300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200801011100000,
+        "to_type": "Definition",
+        "to": 200801011400400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200801011100000,
+        "to_type": "Definition",
+        "to": 200801011400500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200801011100000,
+        "to_type": "Definition",
+        "to": 200801011400600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200801011100000,
+        "to_type": "Definition",
+        "to": 200801011400700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200801011100000,
+        "to_type": "Definition",
+        "to": 200801011400800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200801011100000,
+        "to_type": "Definition",
+        "to": 200801011400900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200801011100000,
+        "to_type": "Definition",
+        "to": 200801011401000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200801011100000,
+        "to_type": "Definition",
+        "to": 200801011401100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200801011100000,
+        "to_type": "Definition",
+        "to": 200801011401200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200801011100000,
+        "to_type": "Definition",
+        "to": 200801011401300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200801011100000,
+        "to_type": "Definition",
+        "to": 200801011401400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200801011100000,
+        "to_type": "Definition",
+        "to": 200801011401500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200801011100000,
+        "to_type": "Definition",
+        "to": 200801011401600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200801011100000,
+        "to_type": "Definition",
+        "to": 200801011401700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200801011100000,
+        "to_type": "Definition",
+        "to": 200801011401800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200801011100000,
+        "to_type": "Definition",
+        "to": 200801011401900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200801011100000,
+        "to_type": "Definition",
+        "to": 200801011402000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200801011100000,
+        "to_type": "Definition",
+        "to": 200801011402100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200801011100000,
+        "to_type": "Definition",
+        "to": 200801011402200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200801011100000,
+        "to_type": "Definition",
+        "to": 200801011402300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201601019100000,
+        "to_type": "Definition",
+        "to": 201601019400100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201601019100000,
+        "to_type": "Definition",
+        "to": 201601019400200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201601019100000,
+        "to_type": "Definition",
+        "to": 201601019400300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201601019100000,
+        "to_type": "Definition",
+        "to": 201601019400400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201601019100000,
+        "to_type": "Definition",
+        "to": 201601019400500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201601019100000,
+        "to_type": "Definition",
+        "to": 201601019400600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201601019100000,
+        "to_type": "Definition",
+        "to": 201601019400700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201601019100000,
+        "to_type": "Definition",
+        "to": 201601019400800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201601019100000,
+        "to_type": "Definition",
+        "to": 201601019400900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201601019100000,
+        "to_type": "Definition",
+        "to": 201601019401000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201601019100000,
+        "to_type": "Definition",
+        "to": 201601019401100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201601019100000,
+        "to_type": "Definition",
+        "to": 201601019401200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201601019100000,
+        "to_type": "Definition",
+        "to": 201601019401300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201601019100000,
+        "to_type": "Definition",
+        "to": 201601019401400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201601019100000,
+        "to_type": "Definition",
+        "to": 201601019401500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201601019100000,
+        "to_type": "Definition",
+        "to": 201601019401600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201601019100000,
+        "to_type": "Definition",
+        "to": 201601019401700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201601019100000,
+        "to_type": "Definition",
+        "to": 201601019401800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201601019100000,
+        "to_type": "Definition",
+        "to": 201601019401900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201601019100000,
+        "to_type": "Definition",
+        "to": 201601019402000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201601019100000,
+        "to_type": "Definition",
+        "to": 201601019402100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201601019100000,
+        "to_type": "Definition",
+        "to": 201601019402200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201601019100000,
+        "to_type": "Definition",
+        "to": 201601019402300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201601019100000,
+        "to_type": "Definition",
+        "to": 201601019402400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202201027100000,
+        "to_type": "Definition",
+        "to": 202201027400100
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202201027100000,
+        "to_type": "Definition",
+        "to": 202201027400200
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202201027100000,
+        "to_type": "Definition",
+        "to": 202201027400300
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202201027100000,
+        "to_type": "Definition",
+        "to": 202201027400400
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202201027100000,
+        "to_type": "Definition",
+        "to": 202201027400500
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202201027100000,
+        "to_type": "Definition",
+        "to": 202201027400600
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202201027100000,
+        "to_type": "Definition",
+        "to": 202201027400700
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202201027100000,
+        "to_type": "Definition",
+        "to": 202201027400800
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202201027100000,
+        "to_type": "Definition",
+        "to": 202201027400900
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202201027100000,
+        "to_type": "Definition",
+        "to": 202201027401000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202201027100000,
+        "to_type": "Definition",
+        "to": 202201027401100
+    }
+]

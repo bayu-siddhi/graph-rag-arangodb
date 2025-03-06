@@ -1,0 +1,380 @@
+[
+    {
+        "from_type": "Regulation",
+        "from": 200705011100000,
+        "to_type": "Observation",
+        "to": 200705011300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200705026100000,
+        "to_type": "Observation",
+        "to": 200705026300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200705038100000,
+        "to_type": "Observation",
+        "to": 200705038300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200905041100000,
+        "to_type": "Observation",
+        "to": 200905041300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200905042100000,
+        "to_type": "Observation",
+        "to": 200905042300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201005001100000,
+        "to_type": "Observation",
+        "to": 201005001300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201005016100000,
+        "to_type": "Observation",
+        "to": 201005016300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201005029100000,
+        "to_type": "Observation",
+        "to": 201005029300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201105002100000,
+        "to_type": "Observation",
+        "to": 201105002300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201105024100000,
+        "to_type": "Observation",
+        "to": 201105024300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201205041100000,
+        "to_type": "Observation",
+        "to": 201205041300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201305020100000,
+        "to_type": "Observation",
+        "to": 201305020300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201305023100000,
+        "to_type": "Observation",
+        "to": 201305023300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201305024100000,
+        "to_type": "Observation",
+        "to": 201305024300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201405014100000,
+        "to_type": "Observation",
+        "to": 201405014300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201405038100000,
+        "to_type": "Observation",
+        "to": 201405038300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201505007100000,
+        "to_type": "Observation",
+        "to": 201505007300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201505017100000,
+        "to_type": "Observation",
+        "to": 201505017300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201505026100000,
+        "to_type": "Observation",
+        "to": 201505026300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201505032100000,
+        "to_type": "Observation",
+        "to": 201505032300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201505035100000,
+        "to_type": "Observation",
+        "to": 201505035300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201605004100000,
+        "to_type": "Observation",
+        "to": 201605004300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201605005100000,
+        "to_type": "Observation",
+        "to": 201605005300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201605010100000,
+        "to_type": "Observation",
+        "to": 201605010300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201605013100000,
+        "to_type": "Observation",
+        "to": 201605013300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201605014100000,
+        "to_type": "Observation",
+        "to": 201605014300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201605020100000,
+        "to_type": "Observation",
+        "to": 201605020300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201705005100000,
+        "to_type": "Observation",
+        "to": 201705005300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201705006100000,
+        "to_type": "Observation",
+        "to": 201705006300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805001100000,
+        "to_type": "Observation",
+        "to": 201805001300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805003100000,
+        "to_type": "Observation",
+        "to": 201805003300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805010100000,
+        "to_type": "Observation",
+        "to": 201805010300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805011100000,
+        "to_type": "Observation",
+        "to": 201805011300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805012100000,
+        "to_type": "Observation",
+        "to": 201805012300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201805016100000,
+        "to_type": "Observation",
+        "to": 201805016300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201905004100000,
+        "to_type": "Observation",
+        "to": 201905004300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201905005100000,
+        "to_type": "Observation",
+        "to": 201905005300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201905013100000,
+        "to_type": "Observation",
+        "to": 201905013300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202005001100000,
+        "to_type": "Observation",
+        "to": 202005001300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202005002100000,
+        "to_type": "Observation",
+        "to": 202005002300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202005005100000,
+        "to_type": "Observation",
+        "to": 202005005300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105001100000,
+        "to_type": "Observation",
+        "to": 202105001300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105005100000,
+        "to_type": "Observation",
+        "to": 202105005300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105006100000,
+        "to_type": "Observation",
+        "to": 202105006300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105007100000,
+        "to_type": "Observation",
+        "to": 202105007300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105010100000,
+        "to_type": "Observation",
+        "to": 202105010300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105011100000,
+        "to_type": "Observation",
+        "to": 202105011300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105013100000,
+        "to_type": "Observation",
+        "to": 202105013300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105014100000,
+        "to_type": "Observation",
+        "to": 202105014300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202205016100000,
+        "to_type": "Observation",
+        "to": 202205016300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405003100000,
+        "to_type": "Observation",
+        "to": 202405003300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405004100000,
+        "to_type": "Observation",
+        "to": 202405004300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202405006100000,
+        "to_type": "Observation",
+        "to": 202405006300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200003052100000,
+        "to_type": "Observation",
+        "to": 200003052300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903071100000,
+        "to_type": "Observation",
+        "to": 201903071300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201903080100000,
+        "to_type": "Observation",
+        "to": 201903080300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202103046100000,
+        "to_type": "Observation",
+        "to": 202103046300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 199901036100000,
+        "to_type": "Observation",
+        "to": 199901036300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 199901040100000,
+        "to_type": "Observation",
+        "to": 199901040300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200801011100000,
+        "to_type": "Observation",
+        "to": 200801011300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201601019100000,
+        "to_type": "Observation",
+        "to": 201601019300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202201027100000,
+        "to_type": "Observation",
+        "to": 202201027300000
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202401001100000,
+        "to_type": "Observation",
+        "to": 202401001300000
+    }
+]
