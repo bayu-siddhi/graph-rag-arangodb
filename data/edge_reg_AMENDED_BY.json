@@ -1,158 +1,184 @@
 [
     {
         "from_type": "Regulation",
-        "from": 200705038100000,
+        "from": 200705011100000,
         "to_type": "Regulation",
-        "to": 200705011100000
+        "to": 200705038100000,
+        "amendment_number": 1
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200705026100000,
+        "to_type": "Regulation",
+        "to": 201005016100000,
+        "amendment_number": 1
     },
     {
         "from_type": "Regulation",
         "from": 201005016100000,
         "to_type": "Regulation",
-        "to": 200705026100000
+        "to": 201005029100000,
+        "amendment_number": 2
+    },
+    {
+        "from_type": "Regulation",
+        "from": 200705026100000,
+        "to_type": "Regulation",
+        "to": 201005029100000,
+        "amendment_number": 2
     },
     {
         "from_type": "Regulation",
         "from": 201005029100000,
         "to_type": "Regulation",
-        "to": 201005016100000
+        "to": 201105024100000,
+        "amendment_number": 3
     },
     {
         "from_type": "Regulation",
-        "from": 201005029100000,
+        "from": 201005016100000,
         "to_type": "Regulation",
-        "to": 200705026100000
+        "to": 201105024100000,
+        "amendment_number": 3
     },
     {
         "from_type": "Regulation",
-        "from": 201105024100000,
+        "from": 200705026100000,
         "to_type": "Regulation",
-        "to": 201005029100000
+        "to": 201105024100000,
+        "amendment_number": 3
     },
     {
         "from_type": "Regulation",
-        "from": 201105024100000,
+        "from": 201005001100000,
         "to_type": "Regulation",
-        "to": 201005016100000
-    },
-    {
-        "from_type": "Regulation",
-        "from": 201105024100000,
-        "to_type": "Regulation",
-        "to": 200705026100000
+        "to": 201405038100000,
+        "amendment_number": 1
     },
     {
         "from_type": "Regulation",
         "from": 201405038100000,
         "to_type": "Regulation",
-        "to": 201005001100000
+        "to": 201505007100000,
+        "amendment_number": 2
     },
     {
         "from_type": "Regulation",
-        "from": 201505007100000,
+        "from": 201005001100000,
         "to_type": "Regulation",
-        "to": 201405038100000
+        "to": 201505007100000,
+        "amendment_number": 2
     },
     {
         "from_type": "Regulation",
-        "from": 201505007100000,
+        "from": 201105024100000,
         "to_type": "Regulation",
-        "to": 201005001100000
+        "to": 201705005100000,
+        "amendment_number": 4
     },
     {
         "from_type": "Regulation",
-        "from": 201705005100000,
+        "from": 201005029100000,
         "to_type": "Regulation",
-        "to": 201105024100000
+        "to": 201705005100000,
+        "amendment_number": 4
     },
     {
         "from_type": "Regulation",
-        "from": 201705005100000,
+        "from": 201005016100000,
         "to_type": "Regulation",
-        "to": 201005029100000
+        "to": 201705005100000,
+        "amendment_number": 4
     },
     {
         "from_type": "Regulation",
-        "from": 201705005100000,
+        "from": 200705026100000,
         "to_type": "Regulation",
-        "to": 201005016100000
+        "to": 201705005100000,
+        "amendment_number": 4
     },
     {
         "from_type": "Regulation",
-        "from": 201705005100000,
+        "from": 201905013100000,
         "to_type": "Regulation",
-        "to": 200705026100000
+        "to": 202005002100000,
+        "amendment_number": 1
     },
     {
         "from_type": "Regulation",
         "from": 202005002100000,
         "to_type": "Regulation",
-        "to": 201905013100000
+        "to": 202105001100000,
+        "amendment_number": 2
+    },
+    {
+        "from_type": "Regulation",
+        "from": 201905013100000,
+        "to_type": "Regulation",
+        "to": 202105001100000,
+        "amendment_number": 2
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202005005100000,
+        "to_type": "Regulation",
+        "to": 202105010100000,
+        "amendment_number": 1
+    },
+    {
+        "from_type": "Regulation",
+        "from": 202105006100000,
+        "to_type": "Regulation",
+        "to": 202105011100000,
+        "amendment_number": 1
     },
     {
         "from_type": "Regulation",
         "from": 202105001100000,
         "to_type": "Regulation",
-        "to": 202005002100000
+        "to": 202105014100000,
+        "amendment_number": 3
     },
     {
         "from_type": "Regulation",
-        "from": 202105001100000,
+        "from": 202005002100000,
         "to_type": "Regulation",
-        "to": 201905013100000
+        "to": 202105014100000,
+        "amendment_number": 3
     },
     {
         "from_type": "Regulation",
-        "from": 202105010100000,
+        "from": 201905013100000,
         "to_type": "Regulation",
-        "to": 202005005100000
+        "to": 202105014100000,
+        "amendment_number": 3
     },
     {
         "from_type": "Regulation",
-        "from": 202105011100000,
+        "from": 200003052100000,
         "to_type": "Regulation",
-        "to": 202105006100000
+        "to": 202103046100000,
+        "amendment_number": 0
     },
     {
         "from_type": "Regulation",
-        "from": 202105014100000,
+        "from": 200801011100000,
         "to_type": "Regulation",
-        "to": 202105001100000
-    },
-    {
-        "from_type": "Regulation",
-        "from": 202105014100000,
-        "to_type": "Regulation",
-        "to": 202005002100000
-    },
-    {
-        "from_type": "Regulation",
-        "from": 202105014100000,
-        "to_type": "Regulation",
-        "to": 201905013100000
-    },
-    {
-        "from_type": "Regulation",
-        "from": 202103046100000,
-        "to_type": "Regulation",
-        "to": 200003052100000
+        "to": 201601019100000,
+        "amendment_number": 1
     },
     {
         "from_type": "Regulation",
         "from": 201601019100000,
         "to_type": "Regulation",
-        "to": 200801011100000
+        "to": 202401001100000,
+        "amendment_number": 2
     },
     {
         "from_type": "Regulation",
-        "from": 202401001100000,
+        "from": 200801011100000,
         "to_type": "Regulation",
-        "to": 201601019100000
-    },
-    {
-        "from_type": "Regulation",
-        "from": 202401001100000,
-        "to_type": "Regulation",
-        "to": 200801011100000
+        "to": 202401001100000,
+        "amendment_number": 2
     }
 ]
