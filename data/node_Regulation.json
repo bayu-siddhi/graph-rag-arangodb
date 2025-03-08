@@ -2,7 +2,6 @@
     {
         "id": 200705011100000,
         "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 11/PER/M.KOMINFO/4/2007 Tahun 2007 tentang Penyediaan Kewajiban Pelayanan Universal Telekomunikasi",
-        "about": "Penyediaan Kewajiban Pelayanan Universal Telekomunikasi",
         "type": "PERMENKOMINFO",
         "number": 11,
         "year": 2007,
@@ -22,7 +21,6 @@
     {
         "id": 200705026100000,
         "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 26/PER/M.KOMINFO/5/2007 Tahun 2007 tentang Pengamanan Pemanfaatan Jaringan Telekomunikasi Berbasis Protokol Internet",
-        "about": "Pengamanan Pemanfaatan Jaringan Telekomunikasi Berbasis Protokol Internet",
         "type": "PERMENKOMINFO",
         "number": 26,
         "year": 2007,
@@ -41,7 +39,6 @@
     {
         "id": 200705038100000,
         "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 38/PER/M.KOMINFO/9/2007 Tahun 2007 tentang Perubahan atas Peraturan Menteri Komunikasi dan Informatika Nomor 11/PER/M.KOMINFO/04/2007 tentang Penyediaan Kewajiban Pelayanan Universal Telekomunikasi",
-        "about": "Perubahan atas Peraturan Menteri Komunikasi dan Informatika Nomor 11/PER/M.KOMINFO/04/2007 tentang Penyediaan Kewajiban Pelayanan Universal Telekomunikasi",
         "type": "PERMENKOMINFO",
         "number": 38,
         "year": 2007,
@@ -61,7 +58,6 @@
     {
         "id": 200905041100000,
         "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 41/PER/M.KOMINFO/10/2009 Tahun 2009 tentang Tata Cara Penilaian Pencapaian Tingkat Komponen Dalam Negeri pada Penyelenggaraan Telekomunikasi",
-        "about": "Tata Cara Penilaian Pencapaian Tingkat Komponen Dalam Negeri pada Penyelenggaraan Telekomunikasi",
         "type": "PERMENKOMINFO",
         "number": 41,
         "year": 2009,
@@ -80,7 +76,6 @@
     {
         "id": 200905042100000,
         "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 42/PER/M.KOMINFO/10/2009 Tahun 2009 tentang Tata Cara Memperoleh Izin bagi Lembaga Penyiaran Asing yang Melakukan Kegiatan Peliputan di Indonesia",
-        "about": "Tata Cara Memperoleh Izin bagi Lembaga Penyiaran Asing yang Melakukan Kegiatan Peliputan di Indonesia",
         "type": "PERMENKOMINFO",
         "number": 42,
         "year": 2009,
@@ -101,7 +96,6 @@
     {
         "id": 201005001100000,
         "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 1/PER/M.KOMINFO/1/2010 Tahun 2010 tentang Penyelenggaraan Jaringan Telekomunikasi",
-        "about": "Penyelenggaraan Jaringan Telekomunikasi",
         "type": "PERMENKOMINFO",
         "number": 1,
         "year": 2010,
@@ -120,7 +114,6 @@
     {
         "id": 201005016100000,
         "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 16/PER/M.KOMINFO/10/2010 Tahun 2010 tentang Perubahan atas Peraturan Menteri Komunikasi dan Informatika Nomor 26/PER/M.KOMINFO/5/2007 tentang Pengamanan Pemanfaatan Jaringan Telekomunikasi Berbasis Protokol Internet",
-        "about": "Perubahan atas Peraturan Menteri Komunikasi dan Informatika Nomor 26/PER/M.KOMINFO/5/2007 tentang Pengamanan Pemanfaatan Jaringan Telekomunikasi Berbasis Protokol Internet",
         "type": "PERMENKOMINFO",
         "number": 16,
         "year": 2010,
@@ -139,7 +132,6 @@
     {
         "id": 201005029100000,
         "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 29/PER/M.KOMINFO/12/2010 Tahun 2010 tentang Perubahan Kedua atas Peraturan Menteri Komunikasi dan Informatika Nomor : 26/PER/M.KOMINFO/5/2007 tentang Pengamanan Pemanfaatan Jaringan Telekomunikasi Berbasis Protokol Internet",
-        "about": "Perubahan Kedua atas Peraturan Menteri Komunikasi dan Informatika Nomor : 26/PER/M.KOMINFO/5/2007 tentang Pengamanan Pemanfaatan Jaringan Telekomunikasi Berbasis Protokol Internet",
         "type": "PERMENKOMINFO",
         "number": 29,
         "year": 2010,
@@ -158,7 +150,6 @@
     {
         "id": 201105002100000,
         "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 2/PER/M.KOMINFO/3/2011 Tahun 2011 tentang Sertifikasi Radio Elektronika dan Operator Radio",
-        "about": "Sertifikasi Radio Elektronika dan Operator Radio",
         "type": "PERMENKOMINFO",
         "number": 2,
         "year": 2011,
@@ -178,7 +169,6 @@
     {
         "id": 201105024100000,
         "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 24/PER/M.KOMINFO/12/2011 Tahun 2011 tentang Perubahan Ketiga atas Peraturan Menteri Komunikasi dan Informatika Nomor 26/Per/M.Kominfo/5/2007 tentang Pengamanan Pemanfaatan Jaringan Telekomunikasi Berbasis Protokol Internet",
-        "about": "Perubahan Ketiga atas Peraturan Menteri Komunikasi dan Informatika Nomor 26/Per/M.Kominfo/5/2007 tentang Pengamanan Pemanfaatan Jaringan Telekomunikasi Berbasis Protokol Internet",
         "type": "PERMENKOMINFO",
         "number": 24,
         "year": 2011,
@@ -197,7 +187,6 @@
     {
         "id": 201205041100000,
         "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 41 Tahun 2012 tentang Penyelenggaraan Penyiaran Lembaga Penyiaran Berlangganan Melalui Satelit, Kabel, dan Terestrial",
-        "about": "Penyelenggaraan Penyiaran Lembaga Penyiaran Berlangganan Melalui Satelit, Kabel, dan Terestrial",
         "type": "PERMENKOMINFO",
         "number": 41,
         "year": 2012,
@@ -216,7 +205,6 @@
     {
         "id": 201305020100000,
         "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 20 Tahun 2013 tentang Jaringan Dokumentasi dan Informasi Hukum Kementerian Komunikasi dan Informatika",
-        "about": "Jaringan Dokumentasi dan Informasi Hukum Kementerian Komunikasi dan Informatika",
         "type": "PERMENKOMINFO",
         "number": 20,
         "year": 2013,
@@ -237,7 +225,6 @@
     {
         "id": 201305023100000,
         "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 23 Tahun 2013 tentang Pengelolaan Nama Domain",
-        "about": "Pengelolaan Nama Domain",
         "type": "PERMENKOMINFO",
         "number": 23,
         "year": 2013,
@@ -256,7 +243,6 @@
     {
         "id": 201305024100000,
         "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 24 Tahun 2013 tentang Layanan Jelajah (Roaming) Internasional",
-        "about": "Layanan Jelajah (Roaming) Internasional",
         "type": "PERMENKOMINFO",
         "number": 24,
         "year": 2013,
@@ -275,7 +261,6 @@
     {
         "id": 201405014100000,
         "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 14 Tahun 2014 tentang Kampanye Pemilihan Umum melalui Penggunaan Jasa Telekomunikasi",
-        "about": "Kampanye Pemilihan Umum melalui Penggunaan Jasa Telekomunikasi",
         "type": "PERMENKOMINFO",
         "number": 14,
         "year": 2014,
@@ -296,7 +281,6 @@
     {
         "id": 201405038100000,
         "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 38 Tahun 2014 tentang Perubahan atas Peraturan Menteri Komunikasi dan Informatika Nomor 1/PER/M.KOMINFO/1/2010 Tentang Penyelenggaraan Jaringan Telekomunikasi",
-        "about": "Perubahan atas Peraturan Menteri Komunikasi dan Informatika Nomor 1/PER/M.KOMINFO/1/2010 Tentang Penyelenggaraan Jaringan Telekomunikasi",
         "type": "PERMENKOMINFO",
         "number": 38,
         "year": 2014,
@@ -316,7 +300,6 @@
     {
         "id": 201505007100000,
         "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 7 Tahun 2015 tentang Perubahan Kedua Atas Peraturan Menteri Komunikasi Dan Informatika Nomor : 01/Per/M.Kominfo/01/2010 Tentang Penyelenggaraan Jaringan Telekomunikasi",
-        "about": "Perubahan Kedua Atas Peraturan Menteri Komunikasi Dan Informatika Nomor : 01/Per/M.Kominfo/01/2010 Tentang Penyelenggaraan Jaringan Telekomunikasi",
         "type": "PERMENKOMINFO",
         "number": 7,
         "year": 2015,
@@ -335,7 +318,6 @@
     {
         "id": 201505017100000,
         "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 17 Tahun 2015 tentang Persyaratan Teknis Pembaca Kartu Cerdas Nirkontak (Contactless Smart Card Reader)",
-        "about": "Persyaratan Teknis Pembaca Kartu Cerdas Nirkontak (Contactless Smart Card Reader)",
         "type": "PERMENKOMINFO",
         "number": 17,
         "year": 2015,
@@ -355,7 +337,6 @@
     {
         "id": 201505026100000,
         "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 26 Tahun 2015 tentang Pelaksanaan Penutupan Konten dan/atau Hak Akses Pengguna Pelanggaran Hak Cipta dan/atau Hak Terkait Dalam Sistem Elektronik",
-        "about": "Pelaksanaan Penutupan Konten dan/atau Hak Akses Pengguna Pelanggaran Hak Cipta dan/atau Hak Terkait Dalam Sistem Elektronik",
         "type": "PERMENKOMINFO",
         "number": 26,
         "year": 2015,
@@ -375,7 +356,6 @@
     {
         "id": 201505032100000,
         "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 32 Tahun 2015 tentang Pengelolaan Nomor Protokol Internet",
-        "about": "Pengelolaan Nomor Protokol Internet",
         "type": "PERMENKOMINFO",
         "number": 32,
         "year": 2015,
@@ -394,7 +374,6 @@
     {
         "id": 201505035100000,
         "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 35 Tahun 2015 tentang Persyaratan Teknis Alat dan Perangkat Telekomunikasi Jarak Dekat",
-        "about": "Persyaratan Teknis Alat dan Perangkat Telekomunikasi Jarak Dekat",
         "type": "PERMENKOMINFO",
         "number": 35,
         "year": 2015,
@@ -413,7 +392,6 @@
     {
         "id": 201605004100000,
         "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 4 Tahun 2016 tentang Sistem Manajemen Pengamanan Informasi",
-        "about": "Sistem Manajemen Pengamanan Informasi",
         "type": "PERMENKOMINFO",
         "number": 4,
         "year": 2016,
@@ -433,7 +411,6 @@
     {
         "id": 201605005100000,
         "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 5 Tahun 2016 tentang Uji Coba Teknologi Telekomunikasi, Informatika, Dan Penyiaran",
-        "about": "Uji Coba Teknologi Telekomunikasi, Informatika, Dan Penyiaran",
         "type": "PERMENKOMINFO",
         "number": 5,
         "year": 2016,
@@ -454,7 +431,6 @@
     {
         "id": 201605010100000,
         "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 10 Tahun 2016 tentang Layanan Nomor Tunggal Panggilan Darurat",
-        "about": "Layanan Nomor Tunggal Panggilan Darurat",
         "type": "PERMENKOMINFO",
         "number": 10,
         "year": 2016,
@@ -474,7 +450,6 @@
     {
         "id": 201605013100000,
         "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 13 Tahun 2016 tentang Hasil Pemetaan Urusan Pemerintahan Daerah di Bidang Komunikasi dan Informatika",
-        "about": "Hasil Pemetaan Urusan Pemerintahan Daerah di Bidang Komunikasi dan Informatika",
         "type": "PERMENKOMINFO",
         "number": 13,
         "year": 2016,
@@ -494,7 +469,6 @@
     {
         "id": 201605014100000,
         "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 14 Tahun 2016 tentang Pedoman Nomenklatur Perangkat Daerah Bidang Komunikasi dan Informatika",
-        "about": "Pedoman Nomenklatur Perangkat Daerah Bidang Komunikasi dan Informatika",
         "type": "PERMENKOMINFO",
         "number": 14,
         "year": 2016,
@@ -516,7 +490,6 @@
     {
         "id": 201605020100000,
         "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 20 Tahun 2016 tentang Perlindungan Data Pribadi Dalam Sistem Elektronik",
-        "about": "Perlindungan Data Pribadi Dalam Sistem Elektronik",
         "type": "PERMENKOMINFO",
         "number": 20,
         "year": 2016,
@@ -536,7 +509,6 @@
     {
         "id": 201705005100000,
         "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 5 Tahun 2017 tentang Perubahan Keempat atas Peraturan Menteri Komunikasi dan Informatika Nomor 26/PER/M.KOMINFO/5/2007 tentang Pengamanan Pemanfaatan Jaringan Telekomunikasi Berbasis Protokol Internet",
-        "about": "Perubahan Keempat atas Peraturan Menteri Komunikasi dan Informatika Nomor 26/PER/M.KOMINFO/5/2007 tentang Pengamanan Pemanfaatan Jaringan Telekomunikasi Berbasis Protokol Internet",
         "type": "PERMENKOMINFO",
         "number": 5,
         "year": 2017,
@@ -555,7 +527,6 @@
     {
         "id": 201705006100000,
         "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 6 Tahun 2017 tentang Penyelenggaraan Layanan Televisi Protokol Internet (Internet Protocol Television)",
-        "about": "Penyelenggaraan Layanan Televisi Protokol Internet (Internet Protocol Television)",
         "type": "PERMENKOMINFO",
         "number": 6,
         "year": 2017,
@@ -575,7 +546,6 @@
     {
         "id": 201805001100000,
         "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 1 Tahun 2018 tentang Akreditasi Lembaga Pelatihan Teknis Bidang Teknologi Informasi dan Komunikasi",
-        "about": "Akreditasi Lembaga Pelatihan Teknis Bidang Teknologi Informasi dan Komunikasi",
         "type": "PERMENKOMINFO",
         "number": 1,
         "year": 2018,
@@ -597,7 +567,6 @@
     {
         "id": 201805003100000,
         "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 3 Tahun 2018 tentang Organisasi Dan Tata Kerja Badan Aksesibilitas Telekomunikasi dan Informasi",
-        "about": "Organisasi Dan Tata Kerja Badan Aksesibilitas Telekomunikasi dan Informasi",
         "type": "PERMENKOMINFO",
         "number": 3,
         "year": 2018,
@@ -618,7 +587,6 @@
     {
         "id": 201805010100000,
         "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 10 Tahun 2018 tentang Pelaksanaan Kewajiban Pelayanan Universal Telekomunikasi dan Informatika",
-        "about": "Pelaksanaan Kewajiban Pelayanan Universal Telekomunikasi dan Informatika",
         "type": "PERMENKOMINFO",
         "number": 10,
         "year": 2018,
@@ -638,7 +606,6 @@
     {
         "id": 201805011100000,
         "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 11 Tahun 2018 tentang Penyelenggaraan Sertifikasi Elektronik",
-        "about": "Penyelenggaraan Sertifikasi Elektronik",
         "type": "PERMENKOMINFO",
         "number": 11,
         "year": 2018,
@@ -658,7 +625,6 @@
     {
         "id": 201805012100000,
         "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 12 Tahun 2018 tentang Penyelenggaraan Telekomunikasi Khusus Untuk Keperluan Instansi Pemerintah atau Badan Hukum",
-        "about": "Penyelenggaraan Telekomunikasi Khusus Untuk Keperluan Instansi Pemerintah atau Badan Hukum",
         "type": "PERMENKOMINFO",
         "number": 12,
         "year": 2018,
@@ -678,7 +644,6 @@
     {
         "id": 201805016100000,
         "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 16 Tahun 2018 tentang Ketentuan Operasional Sertifikasi Alat dan/atau Perangkat Telekomunikasi",
-        "about": "Ketentuan Operasional Sertifikasi Alat dan/atau Perangkat Telekomunikasi",
         "type": "PERMENKOMINFO",
         "number": 16,
         "year": 2018,
@@ -698,7 +663,6 @@
     {
         "id": 201905004100000,
         "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 4 Tahun 2019 tentang Persyaratan Teknis Alat dan/atau Perangkat Telekomunikasi untuk Keperluan Penyelenggaraan Televisi Siaran dan Radio Siaran",
-        "about": "Persyaratan Teknis Alat dan/atau Perangkat Telekomunikasi untuk Keperluan Penyelenggaraan Televisi Siaran dan Radio Siaran",
         "type": "PERMENKOMINFO",
         "number": 4,
         "year": 2019,
@@ -718,7 +682,6 @@
     {
         "id": 201905005100000,
         "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 5 Tahun 2019 tentang Optimalisasi Penggunaan Spektrum Frekuensi Radio",
-        "about": "Optimalisasi Penggunaan Spektrum Frekuensi Radio",
         "type": "PERMENKOMINFO",
         "number": 5,
         "year": 2019,
@@ -738,7 +701,6 @@
     {
         "id": 201905013100000,
         "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 13 Tahun 2019 tentang Penyelenggaraan Jasa Telekomunikasi",
-        "about": "Penyelenggaraan Jasa Telekomunikasi",
         "type": "PERMENKOMINFO",
         "number": 13,
         "year": 2019,
@@ -757,7 +719,6 @@
     {
         "id": 202005001100000,
         "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 1 Tahun 2020 tentang Pengendalian Alat Dan/Atau Perangkat Telekomunikasi Yang Tersambung Ke Jaringan Bergerak Seluler Melalui Identifikasi International Mobile Equipment Identity",
-        "about": "Pengendalian Alat Dan/Atau Perangkat Telekomunikasi Yang Tersambung Ke Jaringan Bergerak Seluler Melalui Identifikasi International Mobile Equipment Identity",
         "type": "PERMENKOMINFO",
         "number": 1,
         "year": 2020,
@@ -776,7 +737,6 @@
     {
         "id": 202005002100000,
         "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 2 Tahun 2020 tentang Perubahan Atas Peraturan Menteri Komunikasi Dan Informatika Nomor 13 Tahun 2019 Tentang Penyelenggaraan Jasa Telekomunikasi",
-        "about": "Perubahan Atas Peraturan Menteri Komunikasi Dan Informatika Nomor 13 Tahun 2019 Tentang Penyelenggaraan Jasa Telekomunikasi",
         "type": "PERMENKOMINFO",
         "number": 2,
         "year": 2020,
@@ -796,7 +756,6 @@
     {
         "id": 202005005100000,
         "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 5 Tahun 2020 tentang Penyelenggara Sistem Elektronik Lingkup Privat",
-        "about": "Penyelenggara Sistem Elektronik Lingkup Privat",
         "type": "PERMENKOMINFO",
         "number": 5,
         "year": 2020,
@@ -815,7 +774,6 @@
     {
         "id": 202105001100000,
         "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 1 Tahun 2021 tentang Perubahan Kedua atas Peraturan Menteri Komunikasi dan Informatika Nomor 13 Tahun 2019 tentang Penyelenggaraan Jasa Telekomunikasi",
-        "about": "Perubahan Kedua atas Peraturan Menteri Komunikasi dan Informatika Nomor 13 Tahun 2019 tentang Penyelenggaraan Jasa Telekomunikasi",
         "type": "PERMENKOMINFO",
         "number": 1,
         "year": 2021,
@@ -835,7 +793,6 @@
     {
         "id": 202105005100000,
         "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 5 Tahun 2021 tentang Penyelenggaraan Telekomunikasi",
-        "about": "Penyelenggaraan Telekomunikasi",
         "type": "PERMENKOMINFO",
         "number": 5,
         "year": 2021,
@@ -855,7 +812,6 @@
     {
         "id": 202105006100000,
         "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 6 Tahun 2021 tentang Penyelenggaraan Penyiaran",
-        "about": "Penyelenggaraan Penyiaran",
         "type": "PERMENKOMINFO",
         "number": 6,
         "year": 2021,
@@ -876,7 +832,6 @@
     {
         "id": 202105007100000,
         "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 7 Tahun 2021 tentang Penggunaan Spektrum Frekuensi Radio",
-        "about": "Penggunaan Spektrum Frekuensi Radio",
         "type": "PERMENKOMINFO",
         "number": 7,
         "year": 2021,
@@ -897,7 +852,6 @@
     {
         "id": 202105010100000,
         "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 10 Tahun 2021 tentang Perubahan atas Peraturan Menteri Komunikasi dan Informatika Nomor 5 Tahun 2020 tentang Penyelenggara Sistem Elektronik Lingkup Privat",
-        "about": "Perubahan atas Peraturan Menteri Komunikasi dan Informatika Nomor 5 Tahun 2020 tentang Penyelenggara Sistem Elektronik Lingkup Privat",
         "type": "PERMENKOMINFO",
         "number": 10,
         "year": 2021,
@@ -917,7 +871,6 @@
     {
         "id": 202105011100000,
         "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 11 Tahun 2021 tentang Perubahan atas Peraturan Menteri Komunikasi dan Informatika Nomor 6 Tahun 2021 tentang Penyelenggaraan Penyiaran",
-        "about": "Perubahan atas Peraturan Menteri Komunikasi dan Informatika Nomor 6 Tahun 2021 tentang Penyelenggaraan Penyiaran",
         "type": "PERMENKOMINFO",
         "number": 11,
         "year": 2021,
@@ -938,7 +891,6 @@
     {
         "id": 202105013100000,
         "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 13 Tahun 2021 tentang Standar Teknis Alat Telekomunikasi dan/atau Perangkat Telekomunikasi Bergerak Seluler Berbasis Standar Teknologi Long Term Evolution dan Standar Teknologi International Mobile Telecommunication-2020",
-        "about": "Standar Teknis Alat Telekomunikasi dan/atau Perangkat Telekomunikasi Bergerak Seluler Berbasis Standar Teknologi Long Term Evolution dan Standar Teknologi International Mobile Telecommunication-2020",
         "type": "PERMENKOMINFO",
         "number": 13,
         "year": 2021,
@@ -959,7 +911,6 @@
     {
         "id": 202105014100000,
         "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 14 Tahun 2021 tentang Perubahan Ketiga atas Peraturan Menteri Komunikasi dan Informatika Nomor 13 Tahun 2019 tentang Penyelenggaraan Jasa Telekomunikasi",
-        "about": "Perubahan Ketiga atas Peraturan Menteri Komunikasi dan Informatika Nomor 13 Tahun 2019 tentang Penyelenggaraan Jasa Telekomunikasi",
         "type": "PERMENKOMINFO",
         "number": 14,
         "year": 2021,
@@ -979,7 +930,6 @@
     {
         "id": 202205016100000,
         "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 16 Tahun 2022 tentang Kebijakan Umum Penyelenggaraan Audit Teknologi Informasi dan Komunikasi",
-        "about": "Kebijakan Umum Penyelenggaraan Audit Teknologi Informasi dan Komunikasi",
         "type": "PERMENKOMINFO",
         "number": 16,
         "year": 2022,
@@ -998,7 +948,6 @@
     {
         "id": 202405003100000,
         "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 3 Tahun 2024 tentang Sertifikasi Alat Telekomunikasi dan/atau Perangkat Telekomunikasi",
-        "about": "Sertifikasi Alat Telekomunikasi dan/atau Perangkat Telekomunikasi",
         "type": "PERMENKOMINFO",
         "number": 3,
         "year": 2024,
@@ -1017,7 +966,6 @@
     {
         "id": 202405004100000,
         "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 4 Tahun 2024 tentang PENYELENGGARAAN URUSAN PEMERINTAHAN KONKUREN BIDANG KOMUNIKASI DAN INFORMATIKA",
-        "about": "PENYELENGGARAAN URUSAN PEMERINTAHAN KONKUREN BIDANG KOMUNIKASI DAN INFORMATIKA",
         "type": "PERMENKOMINFO",
         "number": 4,
         "year": 2024,
@@ -1036,7 +984,6 @@
     {
         "id": 202405006100000,
         "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 6 Tahun 2024 tentang Tata Cara Seleksi Pengguna Pita Frekuensi Radio",
-        "about": "Tata Cara Seleksi Pengguna Pita Frekuensi Radio",
         "type": "PERMENKOMINFO",
         "number": 6,
         "year": 2024,
@@ -1055,7 +1002,6 @@
     {
         "id": 200003052100000,
         "title": "Peraturan Pemerintah (PP) Nomor 52 Tahun 2000 tentang Penyelenggaraan Telekomunikasi",
-        "about": "Penyelenggaraan Telekomunikasi",
         "type": "PP",
         "number": 52,
         "year": 2000,
@@ -1074,7 +1020,6 @@
     {
         "id": 201903071100000,
         "title": "Peraturan Pemerintah (PP) Nomor 71 Tahun 2019 tentang Penyelenggaraan Sistem dan Transaksi Elektronik",
-        "about": "Penyelenggaraan Sistem dan Transaksi Elektronik",
         "type": "PP",
         "number": 71,
         "year": 2019,
@@ -1093,7 +1038,6 @@
     {
         "id": 201903080100000,
         "title": "Peraturan Pemerintah (PP) Nomor 80 Tahun 2019 tentang Perdagangan Melalui Sistem Elektronik",
-        "about": "Perdagangan Melalui Sistem Elektronik",
         "type": "PP",
         "number": 80,
         "year": 2019,
@@ -1114,7 +1058,6 @@
     {
         "id": 202103046100000,
         "title": "Peraturan Pemerintah (PP) Nomor 46 Tahun 2021 tentang Pos, Telekomunikasi, dan Penyiaran",
-        "about": "Pos, Telekomunikasi, dan Penyiaran",
         "type": "PP",
         "number": 46,
         "year": 2021,
@@ -1135,7 +1078,6 @@
     {
         "id": 199901036100000,
         "title": "Undang-undang (UU) Nomor 36 Tahun 1999 tentang Telekomunikasi",
-        "about": "Telekomunikasi",
         "type": "UU",
         "number": 36,
         "year": 1999,
@@ -1154,7 +1096,6 @@
     {
         "id": 199901040100000,
         "title": "Undang-undang (UU) Nomor 40 Tahun 1999 tentang Pers",
-        "about": "Pers",
         "type": "UU",
         "number": 40,
         "year": 1999,
@@ -1173,7 +1114,6 @@
     {
         "id": 200801011100000,
         "title": "Undang-undang (UU) Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik",
-        "about": "Informasi dan Transaksi Elektronik",
         "type": "UU",
         "number": 11,
         "year": 2008,
@@ -1193,7 +1133,6 @@
     {
         "id": 201601019100000,
         "title": "Undang-undang (UU) Nomor 19 Tahun 2016 tentang Perubahan Atas Undang-Undang Nomor 11 Tahun 2008 Tentang Informasi Dan Transaksi Elektronik",
-        "about": "Perubahan Atas Undang-Undang Nomor 11 Tahun 2008 Tentang Informasi Dan Transaksi Elektronik",
         "type": "UU",
         "number": 19,
         "year": 2016,
@@ -1213,7 +1152,6 @@
     {
         "id": 202201027100000,
         "title": "Undang-undang (UU) Nomor 27 Tahun 2022 tentang Pelindungan Data Pribadi",
-        "about": "Pelindungan Data Pribadi",
         "type": "UU",
         "number": 27,
         "year": 2022,
@@ -1233,7 +1171,6 @@
     {
         "id": 202401001100000,
         "title": "Undang-undang (UU) Nomor 1 Tahun 2024 tentang Perubahan Kedua atas Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik",
-        "about": "Perubahan Kedua atas Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik",
         "type": "UU",
         "number": 1,
         "year": 2024,
