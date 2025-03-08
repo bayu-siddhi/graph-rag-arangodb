@@ -2,6 +2,9 @@
 .idea
 .venv
 test.*
+archive
 arangodb
-experiment
 template
+python310
+experiment
+__pycache__
