@@ -1,15 +1,16 @@
-SYSTEM_PROMPT = """You are an intelligent assistant that can query a legal database using AQL and semantic search. Your goal is to accurately `Answer` user queries by utilizing the two tools to fetch relevant information.
+SYSTEM_PROMPT = """You are an intelligent assistant that can query a legal graph database using AQL, semantic search, and networkx algorithm. Your goal is to accurately `Answer` user queries by utilizing some tools to fetch relevant information.
 
 ### Instructions:
 1. **Understand the User Query**
    - Carefully analyze the user's question and determine the best approach to retrieve the required information.
 
-2. **Use Available Tools** 
-   - If the user asks **general questions**, use `semantic_search`.  
-   - If the user asks **definition of something**, use `definition_search`.  
-   - If the user asks for **regulation structure and relationships**, use `aql_search`.  
-   - If the user asks for **graph analysis tasks that require NetworkX algorithms**, use `text_to_nx_algorithm_search`.  
-   - Prioritize using `semantic_search` and `definition_search` over `aql_search`.  
+2. **Use Available Tools**
+   - If the user asks **general questions**, use `semantic_search`.
+   - If the user asks **definition of something**, use `definition_search`.
+   - If the user asks for **regulation structure and relationships**, use `aql_search`.
+   - If the user asks for **graph analysis tasks that require NetworkX algorithms**, use `text_to_nx_algorithm_search`.
+   - If the user asks for **visualization**, use `visualize_query_answer`.
+   - Prioritize using `aql_search` over `text_to_nx_algorithm_search`. If the `aql_search` fails to get information or don't know the answer, then please use `text_to_nx_algorithm_search`.
 
 3. **Maintain Accuracy and Completeness**
    - Your default language is English, but you should `Answer` the user query in the same language as the query.
@@ -20,6 +21,10 @@ SYSTEM_PROMPT = """You are an intelligent assistant that can query a legal datab
 5. **Handle Errors Gracefully**
    - If you dont have the `Answer`, inform the user that no relevant information was found in database, instead of making assumptions.
    - If the query is ambiguous, ask for clarification before proceeding.
+
+6. **Some Notes**
+   - Tool`visualize_query_answer` should only be used AFTER executing another tool (e.g., `aql_search` or `text_to_nx_algorithm_search`) and retrieving their `answer`. The `answer` from the previous tool must be passed as the `answer` argument to this tool.
+   - If there is an image, show it using markdown format `![Visualization](output.png)`
 """
 
 
@@ -28,6 +33,7 @@ AQL_QA_TEMPLATE = """Task: Generate a natural language `Answer` from the results
 You are an ArangoDB Query Language (AQL) expert responsible for creating a well-written `Answer` from the `User Input` and associated `AQL Result`.
 
 A user has executed an ArangoDB Query Language query, which has returned the AQL Result in JSON format.
+
 You are responsible for creating an `Answer` based on the AQL Result.
 
 You are given the following information:
@@ -56,8 +62,7 @@ AQL Result:
 """
 
 
-AQL_EXAMPLES = """
-User Input: What is the content of article 1 of UU Number 11 of 2008?
+AQL_EXAMPLES = """User Input: What is the content of article 1 of UU Number 11 of 2008?
 AQL Query: WITH regulation, article, has_article
 FOR r IN regulation
   FILTER r.type == "UU" AND r.number == 11 AND r.year == 2008
@@ -123,4 +128,148 @@ FOR r IN regulation
   FOR v, e IN OUTBOUND r has_article
     FILTER v.effective == False
     RETURN v
+"""
+
+NX_ALGORITHM_GENERATION_PROMPT = """I have a NetworkX Graph called `G_adb`. 
+                                
+It has the following schema: {schema}
+
+I have the following graph analysis query: {query}.
+
+Your task:
+- Generate the Python Code required to answer the query using the `G_adb` object.
+- Be very precise on the NetworkX algorithm you select to answer this query. Think step by step.
+- Only assume that networkx is installed, and other base python dependencies.
+- Always set the last variable as `FINAL_RESULT`, which represents the answer to the original query.
+- Only provide python code that I can directly execute via `exec()`. Do not provide any instructions.
+- Make sure that `FINAL_RESULT` stores a short & consice answer. Avoid setting this variable to a long sequence.
+- **DON'T CREATE ANY ASSUMPTION TO ADD NODE OR ADD EDGE TO THE `G_adb` OBJECT GRAPH, YOU ONLY CAN READ FROM IT**
+- **DON'T USE ANY TRY-EXCEPT BLOCK**
+
+Pay careful attention to the node ID. Make sure you specify the node ID correctly.
+The ID is equal to node_type followed by "/" followed by the entity number.
+The entity number is formed using a 15-digit number, e.g. article/201601019104502  
+
+Your code:
+"""
+
+NX_ALGORITHM_RETRY_PROMPT = """I tried executing the following networkx Python code, but it failed:
+
+---
+{code}
+---
+
+The error message I got was: {error}
+
+The networkx Python code will be used to answer the following graph analysis query: {query}.
+
+The networkx graph has the following schema: {schema}
+
+Your task:
+- Identify the issue and fix the code.
+- Only assume that networkx is installed, and other base python dependencies.
+- Ensure that `FINAL_RESULT` still contains the correct answer.
+- Provide the corrected Python code only, without any explanations.
+- Ensure that the corrected code is executable with `exec()`.
+- **DON'T CREATE ANY ASSUMPTION TO ADD NODE OR ADD EDGE TO THE `G_adb` OBJECT GRAPH, YOU ONLY CAN READ FROM IT**
+- **DON'T USE ANY TRY-EXCEPT BLOCK**
+
+Corrected Code:
+"""
+
+NX_ALGORITHM_QA_PROMPT = """I have a NetworkX Graph called `G_adb`.
+
+It has the following schema: {schema}
+
+I have the following graph analysis query: {query}.
+
+I have executed the following python code to help me answer my query:
+
+---
+{code}
+---
+
+The `FINAL_RESULT` variable is set to the following: {result}.
+
+Based on my original Query and FINAL_RESULT, generate a short and concise response to answer my query.
+
+Your response:
+"""
+
+VISUALIZATION_GENERATION_PROMPT = """I have a **NetworkX graph** object called `G_adb`.
+
+The networkx graph follows this schema: `{schema}`.  
+
+I need to **visualize** the answer to the following graph analysis query:  
+
+- **Query:** `{query}`  
+- **Answer:** `{answer}`  
+
+### **Important Constraints & Instructions:**  
+1. **Graph Extraction:**  
+    - `G_adb` is an instance of `nx_arangodb.Graph`, which does **not** support `.subgraph()`.  
+- Convert it to a standard **NetworkX graph** (`nx.Graph`) using:  
+        ```python
+        G_nx = nx.Graph(G_adb)
+        ```  
+    - Then, create a **subgraph** from `G_nx` using only the relevant nodes.  
+
+2. **Your Task:**  
+    - Generate **Python code** that visualizes the answer using the `G_adb` graph.  
+    - The **visualization must be clear and readable** (avoid large node sizes).  
+    - *Show and save the visualization as** `"output.png"` using:  
+        ```python
+        plt.savefig("output.png")
+        plt.show()
+        ```  
+    - **Do NOT modify `G_adb`** (e.g., do not add/remove nodes or edges).  
+
+3. **Output Format:**  
+    - Only provide **Python code** (no explanations or additional text).  
+    - The code should be **directly executable** via `exec()`.  
+
+**Your Python Code:**  
+"""
+
+VISUALIZATION_RETRY_PROMPT = """I attempted to execute the following **NetworkX Python code** for visualization, but it failed:  
+
+```python
+{code}
+```
+
+### **Error Message:**  
+```shell
+{error}
+```
+
+### **Context:**  
+This **visualization code** is intended to answer the following **graph analysis query**:  
+- **Query:** `{query}`  
+- **Answer:** `{answer}`  
+
+The **NetworkX Graph** follows this schema: `{schema}`  
+
+### **Your Task:**  
+1. **Identify and fix the issue** in the provided code.  
+2. **Generate the corrected Python code** to visualize the answer using the `G_adb` object.
+    - `G_adb` is an instance of `nx_arangodb.Graph`, which does **not** support `.subgraph()`.  
+    - Convert it to a standard **NetworkX graph** (`nx.Graph`) using:  
+        ```python
+        G_nx = nx.Graph(G_adb)
+        ```  
+    - Then, create a **subgraph** from `G_nx` using only the relevant nodes.  
+3. The **visualization must be clear and readable** (avoid large node sizes).  
+4. **Do NOT modify `G_adb`** (e.g., do not add/remove nodes or edges).  
+5. *Show and save the visualization as** `"output.png"` using:  
+    ```python
+    plt.savefig("output.png")
+    plt.show()
+    ```
+6. **Do NOT modify `G_adb`** (e.g., do not add/remove nodes or edges).  
+
+### **Output Format:**  
+1. Only provide **Python code** (no explanations or additional text).  
+2. The code should be **directly executable** via `exec()`.  
+
+**Corrected Python Code:**
 """
