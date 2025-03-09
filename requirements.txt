@@ -12,3 +12,4 @@ langchain-community==0.3.19
 langchain-openai==0.3.7
 langchain-google-genai==2.0.7
 langgraph==0.3.3
+gradio==5.20.1
