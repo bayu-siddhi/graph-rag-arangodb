@@ -1,6 +1,7 @@
 .env
 .idea
 .venv
+.gradio
 test.*
 archive
 arangodb
