@@ -217,10 +217,11 @@ I need to **visualize** the answer to the following graph analysis query:
 2. **Your Task:**  
     - Generate **Python code** that visualizes the answer using the `G_adb` graph.  
     - The **visualization must be clear and readable** (avoid large node sizes).  
-    - *Show and save the visualization as** `"output.png"` using:  
+    - *Show, save, and close the visualization as** `"output.png"` using:  
         ```python
         plt.savefig("output.png")
         plt.show()
+        plt.close()
         ```  
     - **Do NOT modify `G_adb`** (e.g., do not add/remove nodes or edges).  
 
@@ -260,11 +261,12 @@ The **NetworkX Graph** follows this schema: `{schema}`
     - Then, create a **subgraph** from `G_nx` using only the relevant nodes.  
 3. The **visualization must be clear and readable** (avoid large node sizes).  
 4. **Do NOT modify `G_adb`** (e.g., do not add/remove nodes or edges).  
-5. *Show and save the visualization as** `"output.png"` using:  
+5. *Show, save, and close the visualization as** `"output.png"` using:  
     ```python
     plt.savefig("output.png")
     plt.show()
-    ```
+    plt.close()
+```  
 6. **Do NOT modify `G_adb`** (e.g., do not add/remove nodes or edges).  
 
 ### **Output Format:**  
