@@ -42,3 +42,4 @@ This system allows users to:
 - Deploying the system as **a cloud-based API** for broader accessibility.  
 - Improving **natural language understanding** to support **multi-turn legal conversations**.  
 
+![Alt text for the image](https://github.com/bayu-siddhi/graph-rag-arangodb/blob/main/ITS-logo.png)
