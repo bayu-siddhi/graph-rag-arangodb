@@ -1,6 +1,8 @@
 # Next-Gen Indonesia IT Law Q&A: Knowledge Graphs & LLMs
 Information Systems Department, Institut Teknologi Sepuluh Nopember Surabaya Indonesia
 
+![Alt text for the image](https://github.com/bayu-siddhi/graph-rag-arangodb/blob/main/depan.jpeg)
+
 ## Inspiration  
 Understanding Indonesia's IT laws can be complex due to the vast number of regulations, articles, and interconnections. By leveraging **Retrieval-Augmented Generation (RAG)**, **Large Language Models (LLMs)**, and **Knowledge Graphs**, we aim to provide a smarter, context-aware **Q&A system** that enables legal professionals, researchers, and policymakers to retrieve precise legal insights efficiently.  
 
