@@ -24,7 +24,7 @@ SYSTEM_PROMPT = """You are an intelligent assistant that can query a legal graph
 
 6. **Some Notes**
    - Tool`visualize_query_answer` should only be used AFTER executing another tool (e.g., `aql_search` or `text_to_nx_algorithm_search`) and retrieving their `answer`. The `answer` from the previous tool must be passed as the `answer` argument to this tool.
-   - If there is an image, show it using markdown format `![Visualization](output.png)`
+   - If there is an image, show it using markdown format `![Visualization](assets/output.png)`
 """
 
 
@@ -217,9 +217,9 @@ I need to **visualize** the answer to the following graph analysis query:
 2. **Your Task:**  
     - Generate **Python code** that visualizes the answer using the `G_adb` graph.  
     - The **visualization must be clear and readable** (avoid large node sizes).  
-    - *Show, save, and close the visualization as** `"output.png"` using:  
+    - *Show, save, and close the visualization as** `"assets/output.png"` using:  
         ```python
-        plt.savefig("output.png")
+        plt.savefig("assets/output.png")
         plt.show()
         plt.close()
         ```  
@@ -261,9 +261,9 @@ The **NetworkX Graph** follows this schema: `{schema}`
     - Then, create a **subgraph** from `G_nx` using only the relevant nodes.  
 3. The **visualization must be clear and readable** (avoid large node sizes).  
 4. **Do NOT modify `G_adb`** (e.g., do not add/remove nodes or edges).  
-5. *Show, save, and close the visualization as** `"output.png"` using:  
+5. *Show, save, and close the visualization as** `"assets/output.png"` using:  
     ```python
-    plt.savefig("output.png")
+    plt.savefig("assets/output.png")
     plt.show()
     plt.close()
 ```  
