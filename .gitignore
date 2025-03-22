@@ -2,10 +2,6 @@
 .idea
 .venv
 .gradio
-test.*
-archive
-arangodb
-template
-python310
-experiment
 __pycache__
+installation
+documentation
