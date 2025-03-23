@@ -3,7 +3,7 @@ import gradio as gr
 import nx_arangodb as nxadb
 import sentence_transformers
 
-from app import utils
+from app import helper
 from app.graph_rag import prompt
 from app.graph_rag import tools as custom_tools
 from langgraph import prebuilt
@@ -63,8 +63,8 @@ def create_ask_agent(
         response = agent.invoke({"messages": [messages.HumanMessage(query)]}, config)
         response = response["messages"][-1].content
         if "output.png" in response:
-            return response, gr.Image(utils.load_image("assets/output.png"), label="Visualization Output")
+            return response, gr.Image(helper.load_image("assets/output.png"), label="Visualization Output")
         else:
-            return response, gr.Image(utils.load_image("assets/ITS-logo.png"), label="Visualization Output")
+            return response, gr.Image(helper.load_image("assets/ITS-logo.png"), label="Visualization Output")
 
     return ask_agent

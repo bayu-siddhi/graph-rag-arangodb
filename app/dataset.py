@@ -4,8 +4,6 @@ import json
 import tqdm
 import sentence_transformers
 
-from app import utils
-
 
 class Dataset:
     
@@ -220,4 +218,16 @@ class Dataset:
             })
 
         for key, value in tqdm.tqdm(iterable=result.items(), desc="Save transformed data to JSON", disable=not verbose):
-            utils.list_of_dict_to_json(data=value, output_path=os.path.join(self.dir_path, f"{key}.json"))
+            self._list_of_dict_to_json(data=value, output_path=os.path.join(self.dir_path, f"{key}.json"))
+    
+
+    def _list_of_dict_to_json(
+        self,
+        data: list[dict],
+        output_path: str
+    ) -> None:
+        if not output_path.endswith(".json"):
+            output_path = f"{output_path}.json"
+
+        with open(output_path, "w", encoding="utf-8") as output_file:
+            json.dump(data, output_file, indent=4)
