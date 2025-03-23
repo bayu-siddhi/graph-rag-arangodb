@@ -1,4 +1,4 @@
-# Next-Gen Indonesia IT Law Q&A: Knowledge Graphs & LLMs
+## Next-Gen Indonesia IT Law Q&A: Knowledge Graphs & LLMs
 Information Systems Department, Institut Teknologi Sepuluh Nopember, Surabaya, Indonesia.
 
 <br>
@@ -10,7 +10,7 @@ Understanding Indonesia's IT laws can be complex due to the vast number of regul
 
 ## What it does
 This system allows users to:
-- Perform **AQL (ArangoDB Query Language)** and **semantic searches** across 63 Indonesia IT law regulations.  
+- Perform **AQL (ArangoDB Query Language)** and **semantic searches** across 63 Indonesia IT law regulations.
 - Identify **the most influential regulations** and explore their relationships.
 - Analyze **connections between regulations and articles** using graph-based analytics.
 - Visualize legal structures with **matplotlib** for better understanding.
@@ -25,8 +25,8 @@ To install the latest version of this code, please use this following command.
 
 2. Create a virtual environment (optional but recommended):.
     ```shell
-    python -m venv venv  
-    source venv/bin/activate  # on Windows: venv\Scripts\activate  
+    python -m venv venv
+    source venv/bin/activate  # on Windows: venv\Scripts\activate
     ```
 
 3. Install all the project dependencies.
@@ -34,18 +34,21 @@ To install the latest version of this code, please use this following command.
     pip install -r requirements.txt
     ```
 
-4. Copy the  environment configuration.
+4. Copy the environment configuration.
     ```shell
-    cp .env.example .env  
+    cp .env.example .env
     ```
 
-5. Run both the development process and the application in `graph_rag_arangodb.ipynb`.
-
-<br>
+5. Run the Gradio app on the [`main.py`](main.py) file.
+    ```shell
+    python main.py
+    ```
+    Or see the development process in [`notebook.ipynb`](notebook.ipynb).
 
 > [!NOTE]
-> Edit the `.env` file and fill in your ArangoDB credentials and other necessary configuration.
-> Make sure ArangoDB is running and that the user has Administrate privileges.
+> - This project was developed using `python==3.11.4`, see [requirements.txt](requirements.txt) for dependencies details.
+> - Edit the `.env` file and fill in your ArangoDB credentials and other necessary configuration.
+> - Make sure ArangoDB is running and that the user has Administrate privileges.
 
 ## How we built it  
 1. **Knowledge Graph Construction:**  
@@ -80,5 +83,5 @@ To install the latest version of this code, please use this following command.
 
 <br><br>
 <div align="center">
-  <image src="assets/ITS-logo.png", width=200, alt="Institut Teknologi Sepuluh Nopember Logo">
+  <image src="assets/ITS-logo.png", width=250, alt="Institut Teknologi Sepuluh Nopember Logo">
 </div>
