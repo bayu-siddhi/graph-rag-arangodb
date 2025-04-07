@@ -5,7 +5,7 @@ import nx_arangodb as nxadb
 
 from arango import client
 from arango import database
-from app import custom_adbnx
+from src import custom_adbnx
 from adbnx_adapter import adapter
 
 
@@ -206,31 +206,31 @@ class Database:
         # Set the "effective" attribute to False for all next_article edges
         # that point to an article node with an "effective" attribute set to False
         nxadb_graph.query("""
-        RETURN COUNT(
-            FOR node IN article
-                FILTER node.effective == false
+            RETURN COUNT(
+                FOR node IN article
+                    FILTER node.effective == false
 
-                // Update edges dengan arah MASUK ke article yang effective-nya false
-                FOR edge IN next_article
-                    FILTER edge._to == node._id
-                    UPDATE edge WITH { effective: false } IN next_article
-                    RETURN NEW
-        )
+                    // Update edges dengan arah MASUK ke article yang effective-nya false
+                    FOR edge IN next_article
+                        FILTER edge._to == node._id
+                        UPDATE edge WITH { effective: false } IN next_article
+                        RETURN NEW
+            )
         """)
 
         # Set the "effective" attribute to False for all next_article edges
         # that originate from an article node with an "effective" attribute set to False
         nxadb_graph.query("""
-        RETURN COUNT(
-            FOR node IN article
-                FILTER node.effective == false
+            RETURN COUNT(
+                FOR node IN article
+                    FILTER node.effective == false
 
-                // Update edges dengan arah KELUAR dari article yang effective-nya false
-                FOR edge IN next_article
-                    FILTER edge._from == node._id
-                    UPDATE edge WITH { effective: false } IN next_article
-                    RETURN NEW
-        )
+                    // Update edges dengan arah KELUAR dari article yang effective-nya false
+                    FOR edge IN next_article
+                        FILTER edge._from == node._id
+                        UPDATE edge WITH { effective: false } IN next_article
+                        RETURN NEW
+            )
         """)
 
         # For article nodes that have more than one outgoing next_article edge:

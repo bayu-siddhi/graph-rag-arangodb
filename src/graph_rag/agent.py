@@ -3,9 +3,9 @@ import gradio as gr
 import nx_arangodb as nxadb
 import sentence_transformers
 
-from app import helper
-from app.graph_rag import prompt
-from app.graph_rag import tools as custom_tools
+from src import helper
+from src.graph_rag import prompt
+from src.graph_rag import tools as custom_tools
 from langgraph import prebuilt
 from langgraph.checkpoint import memory
 from langchain_core import messages

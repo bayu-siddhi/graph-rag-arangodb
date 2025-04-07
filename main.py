@@ -1,10 +1,10 @@
 import os
-import app
+import src
 import dotenv
 import functools
 import gradio as gr
 
-from app import helper
+from src import helper
 from torch import cuda
 from langchain_community import graphs
 from langchain_openai import chat_models as openai_chat_models
@@ -19,10 +19,10 @@ if __name__=="__main__":
     device = "cuda" if cuda.is_available() else "cpu"
 
     # Instantiate the dataset object
-    dataset_obj = app.Dataset("data")
+    dataset_obj = src.Dataset("data")
 
     # Instantiate the database object
-    database_obj = app.Database(
+    database_obj = src.Database(
         host=os.environ["DATABASE_HOST"],
         db_name=os.environ["DATABASE_NAME"],
         graph_name=os.environ["GRAPH_NAME"],
@@ -51,7 +51,7 @@ if __name__=="__main__":
         )
 
     # Create agent
-    ask_agent = app.create_ask_agent(
+    ask_agent = src.create_ask_agent(
         llm=llm,
         nxadb_graph=database_obj.get_nxadb_graph(),
         arango_graph=arango_graph,

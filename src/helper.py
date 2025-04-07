@@ -4,8 +4,8 @@ import json
 import typing 
 import gradio as gr
 
-from app import dataset
-from app import database
+from src import dataset
+from src import database
 from langchain_community import graphs
 
 

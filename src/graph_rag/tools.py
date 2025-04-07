@@ -8,8 +8,8 @@ import deep_translator
 import nx_arangodb as nxadb
 import sentence_transformers
 
-from app.graph_rag import prompt
-from app.graph_rag import models
+from src.graph_rag import prompt
+from src.graph_rag import models
 from sentence_transformers import util
 from langchain import prompts
 from langchain_core import tools
